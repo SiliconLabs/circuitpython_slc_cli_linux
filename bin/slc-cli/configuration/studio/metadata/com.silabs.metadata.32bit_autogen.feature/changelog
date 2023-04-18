@@ -1,0 +1,50 @@
+5.0.21
+    Package version for release in SV5.6.3.0
+    BRD4115A - EFR32BG24IJ/GJ
+    KG100S-PK6130A Pro Kit for Amazon Sidewalk (BRD4332A/BRD8042A)
+5.0.20
+    Package version for release in SV5.6.2.0
+	EFR32FG25 OPN Update
+	BRD4197A
+5.0.19
+    Package version for release in SV5.6.1.0
+5.0.18
+    Package version for release in SV5.6.0.0
+    BRD2200C/BRD2201B/BRD2400B/BRD2102B
+    BRD4270B/BRD4271A/BRD4272A - EFR32FG25B222F1920IM56
+    BRD4335A/BRD4318A: MGM/BGM24xS SiP Modules
+    EFR32MR21A020F512IM32
+5.0.17
+    Package version for release in SV5.5.2.0
+5.0.16
+    Package version for release in SV5.5.1.0
+    BRD2704A MGM240P Sparkfun Board
+5.0.15
+    Package version for release in SV5.5.0.0
+    xG24 Explorer EK2703/BRD2703 GA release
+5.0.14
+    Package version for release in SV5.4.2.0
+    BRD4166C
+    Updated EFR32FG23B021 OPNs
+5.0.13
+    Package version for release in SV5.4.1.0
+    Board revision updates
+5.0.12
+    Package version for release in SV5.4.0.0
+	BRD2204C
+	BRD2603A - EFR32FG25
+	BRD4316A/BRD4317A - xGM240P PCB Modules
+	BRD4319A - MGM240L Module
+	BRD4328A - FGM230S Modules
+	BRD4330A/BRD4331A - BGM220 Modules
+5.0.9
+    Package version for release in SV5.3.3.1
+    EFM32PG23 OPN and BRD2504A Revision A03 GA release
+5.0.6
+    Package version for release in SV5.3.3.0
+5.0.3
+    Package version for release in SV5.3.2.0
+    Add data for BRD2601B, BRD4186C, BRD4187C, BRD4188B
+    Add data for EFR32BG24 & EFR32MG24 OPNs
+5.0.0
+    Initial Package containing GA metadata content for 32 bit boards, kits & parts

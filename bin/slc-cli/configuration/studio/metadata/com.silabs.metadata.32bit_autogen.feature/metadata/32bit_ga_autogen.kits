@@ -1,0 +1,1530 @@
+<?xml version="1.0" ?>
+<slkits version="1.0">
+  <kits>
+    <kit pn="BGM220EK" variant="A" revision="A00">
+      <opn>BGM220-EK4314A</opn>
+      <kit-type>DK</kit-type>
+      <name>BGM220 Explorer Kit</name>
+      <boards>
+        <board pn="BRD4314" variant="A"/>
+      </boards>
+    </kit>
+
+    <kit pn="DK2503" variant="A">
+      <opn>PG22-DK2503A</opn>
+      <kit-type>DK</kit-type>
+      <name>PG22 Dev Kit</name>
+      <boards>
+        <board pn="BRD2503" variant="A"/>
+      </boards>
+    </kit>
+
+    <kit pn="DK2600" variant="A">
+      <opn>FG23-DK2600A</opn>
+      <kit-type>DK</kit-type>
+      <name>FG23 868-915 MHz +14 dBm Dev Kit</name>
+      <boards>
+        <board pn="BRD2600" variant="A" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="DK2601" variant="B" revision="A02">
+      <opn>xG24-DK2601B</opn>
+      <kit-type>Dev Kit</kit-type>
+      <name>xG24 Dev Kit</name>
+      <boards>
+        <board pn="BRD2601" variant="B" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="DK3550" variant="A" revision="A06">
+      <opn>EFM32G-DK3550</opn>
+      <kit-type>DK</kit-type>
+      <name>EFM32 Gecko Development Kit</name>
+      <boards>
+        <board pn="BRD3201" variant="A" revision="A03"/>
+        <board pn="BRD3302" variant="A" revision="A02"/>
+        <board pn="BRD3500" variant="B" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="DK3650" variant="A" revision="A08">
+      <opn>EFM32LG-DK3650</opn>
+      <kit-type>DK</kit-type>
+      <name>EFM32 Leopard Gecko Development Kit</name>
+      <boards>
+        <board pn="BRD3201" variant="A" revision="A03"/>
+        <board pn="BRD3500" variant="B" revision="A00"/>
+        <board pn="BRD3601" variant="A" revision="B01"/>
+      </boards>
+    </kit>
+
+    <kit pn="DK3750" variant="A" revision="A09">
+      <opn>EFM32GG-DK3750</opn>
+      <kit-type>DK</kit-type>
+      <name>EFM32 Giant Gecko Development Kit</name>
+      <boards>
+        <board pn="BRD3201" variant="A" revision="A03"/>
+        <board pn="BRD3500" variant="B" revision="A00"/>
+        <board pn="BRD3600" variant="A" revision="A05"/>
+      </boards>
+    </kit>
+
+    <kit pn="DK3850" variant="A" revision="A02">
+      <opn>EFM32WG-DK3850</opn>
+      <kit-type>DK</kit-type>
+      <name>EFM32 Wonder Gecko Development Kit</name>
+      <boards>
+        <board pn="BRD3201" variant="A" revision="A03"/>
+        <board pn="BRD3500" variant="B" revision="A00"/>
+        <board pn="BRD3800" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="DK4204" variant="D">
+      <opn>xG23-RB4204D</opn>
+      <kit-type>WSTK</kit-type>
+      <name>xG23 868-915 MHz +14 dBm Radio Board Kit</name>
+      <boards>
+        <board pn="BRD4204" variant="D"/>
+      </boards>
+    </kit>
+
+    <kit pn="DK4210" variant="A">
+      <opn>xG23-RB4210A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>xG23 868-915 MHz +20 dBm Radio Board Kit</name>
+      <boards>
+        <board pn="BRD4210" variant="A"/>
+      </boards>
+    </kit>
+
+    <kit pn="DK4265" variant="B">
+      <opn>FG23-RB4265B</opn>
+      <kit-type>WSTK</kit-type>
+      <name>FG23 433 MHz +10 dBm Radio Board Kit</name>
+      <boards>
+        <board pn="BRD4265" variant="B"/>
+      </boards>
+    </kit>
+
+    <kit pn="EK2703" variant="A" revision="A00">
+      <opn>xG24-EK2703A</opn>
+      <kit-type>Explorer Kit</kit-type>
+      <name>xG24 Explorer Kit</name>
+      <boards>
+        <board pn="BRD2703" variant="A" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="EK2703" variant="A" revision="A01">
+      <opn>xG24-EK2703A</opn>
+      <kit-type>Explorer Kit</kit-type>
+      <name>xG24 Explorer Kit</name>
+      <boards>
+        <board pn="BRD2703" variant="A" revision="A02"/>
+      </boards>
+    </kit>
+
+    <kit pn="EK2703" variant="A" revision="A02">
+      <opn>xG24-EK2703A</opn>
+      <kit-type>Explorer Kit</kit-type>
+      <name>xG24 Explorer Kit</name>
+      <boards>
+        <board pn="BRD2703" variant="A" revision="A02"/>
+      </boards>
+    </kit>
+
+    <kit pn="EK4108" variant="A">
+      <opn>BG22-EK4108A</opn>
+      <kit-type>EK</kit-type>
+      <name>BG22 Explorer Kit</name>
+      <boards>
+        <board pn="BRD4108" variant="A"/>
+      </boards>
+    </kit>
+
+    <kit pn="EXP8007" variant="A" revision="A01">
+      <opn>SLEXP8007A</opn>
+      <kit-type>EXP</kit-type>
+      <name>Silicon Labs Xpress - CPT007B Evaluation Kit</name>
+      <boards>
+        <board pn="BRD8007" variant="A" revision="A02"/>
+      </boards>
+    </kit>
+
+    <kit pn="EXP8008" variant="A" revision="A01">
+      <opn>SLEXP8008A</opn>
+      <kit-type>EXP</kit-type>
+      <name>Silicon Labs Xpress - CPT112S Evaluation Kit</name>
+      <boards>
+        <board pn="BRD8008" variant="A" revision="A02"/>
+      </boards>
+    </kit>
+
+    <kit pn="EXP8018" variant="A" revision="A00">
+      <opn>SLEXP8018A</opn>
+      <kit-type>EXP</kit-type>
+      <name>Silicon Labs Xpress - CPT212B Evaluation Kit</name>
+      <boards>
+        <board pn="BRD8018" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="EXP8019" variant="A" revision="A00">
+      <opn>SLEXP8019A</opn>
+      <kit-type>EXP</kit-type>
+      <name>Silicon Labs Xpress - CPT213B Evaluation Kit</name>
+      <boards>
+        <board pn="BRD8019" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="EXP8021" variant="A" revision="A01">
+      <opn>SLEXP8021A</opn>
+      <kit-type>EXP</kit-type>
+      <name>LTE-M Expansion Kit</name>
+      <boards>
+        <board pn="BRD8021" variant="A" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="EXP8022" variant="A">
+      <opn>SLEXP8022A</opn>
+      <kit-type>EXP</kit-type>
+      <name>WF200 Expansion Kit</name>
+      <boards>
+        <board pn="BRD8022" variant="A"/>
+      </boards>
+    </kit>
+
+    <kit pn="EXP8023" variant="A">
+      <opn>SLEXP8023A</opn>
+      <kit-type>EXP</kit-type>
+      <name>WFM200S Expansion Kit</name>
+      <boards>
+        <board pn="BRD8023" variant="A"/>
+      </boards>
+    </kit>
+
+    <kit pn="G2xx-DK" variant="A" revision="A04">
+      <opn>EFM32-G2xx-DK</opn>
+      <kit-type>DK</kit-type>
+      <name>Gecko Development Kit with G290 MCU module</name>
+      <boards>
+        <board pn="BRD3200" variant="C" revision="A02"/>
+        <board pn="BRD3300" variant="B" revision="A02"/>
+        <board pn="BRD3500" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="G8xx-DK" variant="A" revision="A04">
+      <opn>EFM32-G8xx-DK</opn>
+      <kit-type>DK</kit-type>
+      <name>Gecko Development Kit with G890 MCU module</name>
+      <boards>
+        <board pn="BRD3200" variant="C" revision="A02"/>
+        <board pn="BRD3300" variant="A" revision="A02"/>
+        <board pn="BRD3500" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="G8xx-STK" variant="A" revision="A05">
+      <opn>EFM32-G8xx-STK</opn>
+      <kit-type>STK</kit-type>
+      <name>EFM32 Gecko Starter Kit</name>
+      <boards>
+        <board pn="BRD2001" variant="A" revision="A05"/>
+      </boards>
+    </kit>
+
+    <kit pn="PK2504" variant="A">
+      <opn>PG23-PK2504A</opn>
+      <kit-type>STK</kit-type>
+      <name>PG23 Pro Kit</name>
+      <boards>
+        <board pn="BRD2504" variant="A"/>
+      </boards>
+    </kit>
+
+    <kit pn="PK2504" variant="A" revision="A01">
+      <opn>PG23-PK2504A</opn>
+      <kit-type>Pro Kit</kit-type>
+      <name>PG23 Pro Kit</name>
+      <boards>
+        <board pn="BRD2504" variant="A" revision="A02"/>
+      </boards>
+    </kit>
+
+    <kit pn="PK2504" variant="A" revision="A02">
+      <opn>PG23-PK2504A</opn>
+      <kit-type>Pro Kit</kit-type>
+      <name>PG23 Pro Kit</name>
+      <boards>
+        <board pn="BRD2504" variant="A" revision="A03"/>
+      </boards>
+    </kit>
+
+    <kit pn="PK2504" variant="A" revision="A03">
+      <opn>PG23-PK2504A</opn>
+      <kit-type>Pro Kit</kit-type>
+      <name>PG23 Pro Kit</name>
+      <boards>
+        <board pn="BRD2504" variant="A" revision="A04"/>
+      </boards>
+    </kit>
+
+    <kit pn="PK6009" variant="A" revision="A01">
+      <opn>xG24-PK6009A</opn>
+      <kit-type>Pro Kit</kit-type>
+      <name>xG24 +10 dBm Pro Kit</name>
+      <boards>
+        <board pn="BRD4002" variant="A" revision="A06"/>
+        <board pn="BRD4186" variant="C" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="PK6010" variant="A" revision="A01">
+      <opn>xG24-PK6010A</opn>
+      <kit-type>Pro Kit</kit-type>
+      <name>xG24 +20 dBm Pro Kit</name>
+      <boards>
+        <board pn="BRD4002" variant="A" revision="A06"/>
+        <board pn="BRD4187" variant="C" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="PK6067" variant="A">
+      <opn>xG23-PK6067A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>xG23 868-915 MHz +14 dBm Pro Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A"/>
+        <board pn="BRD4204" variant="D"/>
+        <board pn="BRD8010" variant="A"/>
+      </boards>
+    </kit>
+
+    <kit pn="PK6068" variant="A">
+      <opn>xG23-PK6068A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>xG23 868-915 MHz +20 dBm Pro Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A"/>
+        <board pn="BRD4210" variant="A"/>
+        <board pn="BRD8010" variant="A"/>
+      </boards>
+    </kit>
+
+    <kit pn="PK6130" variant="A" revision="A01">
+      <opn>KG100S-PK6130A</opn>
+      <kit-type>Pro Kit</kit-type>
+      <name>Pro Kit for Amazon Sidewalk</name>
+      <boards>
+        <board pn="BRD4002" variant="A" revision="A06"/>
+        <board pn="BRD4187" variant="C" revision="A01"/>
+        <board pn="BRD4332" variant="A" revision="A03"/>
+        <board pn="BRD8042" variant="A" revision="A02"/>
+      </boards>
+    </kit>
+
+    <kit pn="PK800" variant="A" revision="A00">
+      <opn>ZWAVE-PK800A</opn>
+      <kit-type>Pro Kit</kit-type>
+      <name>ZWAVE-PK800A</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A03"/>
+        <board pn="BRD4204" variant="D" revision="A00"/>
+        <board pn="BRD4205" variant="B" revision="A00"/>
+        <board pn="BRD8029" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="RB4186" variant="C" revision="A02">
+      <opn>xG24-RB4186C</opn>
+      <kit-type>Radio Board</kit-type>
+      <name>EFR32xG24 2.4 GHz 10 dBm Radio Board</name>
+      <boards>
+        <board pn="BRD4186" variant="C" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="RB4187" variant="C" revision="A02">
+      <opn>xG24-RB4187C</opn>
+      <kit-type>Radio Board</kit-type>
+      <name>EFR32xG24 2.4 GHz 20 dBm Radio Board</name>
+      <boards>
+        <board pn="BRD4187" variant="C" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="RB4188" variant="A" revision="A02">
+      <opn>xG24-RB4188A</opn>
+      <kit-type>Radio Board</kit-type>
+      <name>EFR32xG24 2.4 GHz 20 dBm Antenna Diversity Radio Board</name>
+      <boards>
+        <board pn="BRD4188" variant="B" revision="A02"/>
+      </boards>
+    </kit>
+
+    <kit pn="RD-0057" variant="02" revision="01">
+      <opn>RD-0057-0201</opn>
+      <kit-type>ThunderBoard</kit-type>
+      <name>Thunderboard React RD-0057-0201</name>
+      <boards>
+        <board pn="RD-0057" variant="01" revision="01"/>
+      </boards>
+    </kit>
+
+    <kit pn="RS9116-MG21">
+      <opn></opn>
+      <kit-type>WSTK</kit-type>
+      <name>RS9116 Evaluation Kit with EFR32MG21</name>
+      <boards>
+        <board pn="BRD4001" variant="A"/>
+        <board pn="BRD4180" variant="B"/>
+        <board pn="RS9116X-DB-EVK1"/>
+      </boards>
+    </kit>
+
+    <kit pn="STK3200" variant="A" revision="A01">
+      <opn>EFM32ZG-STK3200A</opn>
+      <kit-type>STK</kit-type>
+      <name>EFM32 Zero Gecko Starter Kit</name>
+      <boards>
+        <board pn="BRD2010" variant="A" revision="B00"/>
+      </boards>
+    </kit>
+
+    <kit pn="STK3201" variant="A" revision="A01">
+      <opn>SLSTK3201A</opn>
+      <kit-type>STK</kit-type>
+      <name>EFM32 Zero Gecko STK with weather station demo</name>
+      <boards>
+        <board pn="BRD2010" variant="A" revision="B00"/>
+        <board pn="BRD8001" variant="A" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="STK3300" variant="A" revision="A06">
+      <opn>EFM32TG-STK3300</opn>
+      <kit-type>STK</kit-type>
+      <name>EFM32 Tiny Gecko Starter Kit</name>
+      <boards>
+        <board pn="BRD2100" variant="A" revision="A05"/>
+      </boards>
+    </kit>
+
+    <kit pn="STK3301" variant="A" revision="A00">
+      <opn>SLSTK3301A</opn>
+      <kit-type>STK</kit-type>
+      <name>EFM32TG11 Tiny Gecko Starter Kit</name>
+      <boards>
+        <board pn="BRD2102" variant="A" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="STK3400" variant="A" revision="A04">
+      <opn>SLSTK3400A</opn>
+      <kit-type>STK</kit-type>
+      <name>EFM32 Happy Gecko Starter Kit</name>
+      <boards>
+        <board pn="BRD2012" variant="A" revision="B02"/>
+      </boards>
+    </kit>
+
+    <kit pn="STK3401" variant="A" revision="A01">
+      <opn>SLSTK3401A</opn>
+      <kit-type>STK</kit-type>
+      <name>EFM32 Pearl Gecko Starter Kit</name>
+      <boards>
+        <board pn="BRD2500" variant="A" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="STK3402" variant="A" revision="A00">
+      <opn>SLSTK3402A</opn>
+      <kit-type>STK</kit-type>
+      <name>EFM32PG12 Pearl Gecko Starter Kit</name>
+      <boards>
+        <board pn="BRD2501" variant="A" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="STK3600" variant="A" revision="A05">
+      <opn>EFM32LG-STK3600</opn>
+      <kit-type>STK</kit-type>
+      <name>EFM32 Leopard Gecko Starter Kit</name>
+      <boards>
+        <board pn="BRD2201" variant="A" revision="A02"/>
+      </boards>
+    </kit>
+
+    <kit pn="STK3700" variant="A" revision="A06">
+      <opn>EFM32GG-STK3700</opn>
+      <kit-type>STK</kit-type>
+      <name>EFM32 Giant Gecko Starter Kit</name>
+      <boards>
+        <board pn="BRD2200" variant="A" revision="A03"/>
+      </boards>
+    </kit>
+
+    <kit pn="STK3701" variant="A" revision="A00">
+      <opn>SLSTK3701A</opn>
+      <kit-type>STK</kit-type>
+      <name>EFM32GG11 Giant Gecko Starter Kit</name>
+      <boards>
+        <board pn="BRD2204" variant="A" revision="B00"/>
+      </boards>
+    </kit>
+
+    <kit pn="STK3701" variant="A" revision="B00">
+      <opn>SLSTK3701A</opn>
+      <kit-type>STK</kit-type>
+      <name>EFM32GG11 Giant Gecko Starter Kit</name>
+      <boards>
+        <board pn="BRD2204" variant="C" revision="A02"/>
+      </boards>
+    </kit>
+
+    <kit pn="STK3701" variant="B">
+      <opn>SLSTK3701B</opn>
+      <kit-type>STK</kit-type>
+      <name>EFM32GG11 Giant Gecko Starter Kit</name>
+      <property key="hidden" value="true"/>
+      <boards>
+        <board pn="BRD2204" variant="B"/>
+      </boards>
+    </kit>
+
+    <kit pn="STK3800" variant="A" revision="A01">
+      <opn>EFM32WG-STK3800</opn>
+      <kit-type>STK</kit-type>
+      <name>EFM32 Wonder Gecko Starter Kit</name>
+      <boards>
+        <board pn="BRD2400" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="TB001" variant="A">
+      <opn>SLTB001A</opn>
+      <kit-type>ThunderBoard</kit-type>
+      <name>Thunderboard Sense</name>
+      <property key="hidden" value="true"/>
+      <boards>
+        <board pn="BRD4160" variant="A" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="TB004" variant="A">
+      <opn>SLTB004A</opn>
+      <kit-type>ThunderBoard</kit-type>
+      <name>Thunderboard Sense 2</name>
+      <boards>
+        <board pn="BRD4166" variant="A"/>
+      </boards>
+    </kit>
+
+    <kit pn="TB009" variant="A">
+      <opn>SLTB009A</opn>
+      <kit-type>Thunderboard</kit-type>
+      <name>Thunderboard EFM32GG12</name>
+      <boards>
+        <board pn="BRD2207" variant="A"/>
+      </boards>
+    </kit>
+
+    <kit pn="TB010" variant="A">
+      <opn>SLTB010A</opn>
+      <kit-type>Thunderboard</kit-type>
+      <name>Thunderboard EFR32BG22</name>
+      <boards>
+        <board pn="BRD4184" variant="B"/>
+      </boards>
+    </kit>
+
+    <kit pn="TB010" variant="A" revision="A01">
+      <opn>SLTB010A</opn>
+      <kit-type>Thunderboard</kit-type>
+      <name>Thunderboard EFR32BG22</name>
+      <boards>
+        <board pn="BRD4184" variant="A"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4101" variant="B" revision="A00">
+      <opn>SLWRB4101B</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32BG 2.4 GHz 8 dBm WLCSP Radio Board</name>
+      <boards>
+        <board pn="BRD4101" variant="B" revision="A02"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4103" variant="A" revision="A00">
+      <opn>SLWRB4103A</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32BG12 2.4 GHz 10 dBm Radio Board</name>
+      <boards>
+        <board pn="BRD4103" variant="A" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4104" variant="A" revision="A00">
+      <opn>SLWRB4104A</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32BG13 2.4 GHz 10 dBm Radio Board</name>
+      <boards>
+        <board pn="BRD4104" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4105" variant="A" revision="A00">
+      <opn>SLWRB4105A</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32BG14 2.4 GHz 10 dBm Radio Board</name>
+      <boards>
+        <board pn="BRD4105" variant="A" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4159" variant="A" revision="A00">
+      <opn>SLWRB4159A</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32MG13 2.4 GHz 10 dBm Radio Board</name>
+      <boards>
+        <board pn="BRD4159" variant="A" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4161" variant="A" revision="A02">
+      <opn>SLWRB4161A</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32MG12 2.4 GHz 19 dBm Radio Board</name>
+      <boards>
+        <board pn="BRD4161" variant="A" revision="A02"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4162" variant="A" revision="A00">
+      <opn>SLWRB4162A</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32MG12 2.4 GHz 10 dBm Radio Board</name>
+      <boards>
+        <board pn="BRD4162" variant="A" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4163" variant="A" revision="A00">
+      <opn>SLWRB4163A</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32MG12 2400/868 MHz 10 dBm Dual Band Radio Board</name>
+      <boards>
+        <board pn="BRD4163" variant="A" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4164" variant="A" revision="A00">
+      <opn>SLWRB4164A</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32MG12 2400/915 MHz 19 dBm Dual Band Radio Board</name>
+      <boards>
+        <board pn="BRD4164" variant="A" revision="A02"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4167" variant="A" revision="A00">
+      <opn>SLWRB4167A</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32MG13 2400/868 MHz 10 dBm Dual Band Radio Board</name>
+      <boards>
+        <board pn="BRD4167" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4168" variant="A" revision="A00">
+      <opn>SLWRB4168A</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32MG13 2.4 GHz 19 dBm Radio Board</name>
+      <boards>
+        <board pn="BRD4168" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4169" variant="A" revision="A01">
+      <opn>SLWRB4169A</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32MG14 2400/868 MHz 13 dBm Dual Band Radio Board</name>
+      <boards>
+        <board pn="BRD4169" variant="A" revision="A02"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4169" variant="B" revision="A01">
+      <opn>SLWRB4169B</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32MG14 2400/915 MHz 19 dBm Dual Band Radio Board</name>
+      <boards>
+        <board pn="BRD4169" variant="B" revision="A03"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4170" variant="A" revision="A00">
+      <opn>SLWRB4170A</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32MG12 2400/868-915 MHz 19 dBm Dual Band Radio Board</name>
+      <boards>
+        <board pn="BRD4170" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4172" variant="A" revision="A00">
+      <opn>SLWRB4172A</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32MG12 2400/490 MHz 19 dBm Dual Band Radio Board</name>
+      <boards>
+        <board pn="BRD4172" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4172" variant="B" revision="A00">
+      <opn>SLWRB4172B</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32MG12 2400/169 MHz 19 dBm Dual Band Radio Board</name>
+      <boards>
+        <board pn="BRD4172" variant="B" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4173" variant="A" revision="A00">
+      <opn>SLWRB4173A</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32MG12 2400/434 MHz 10 dBm Dual Band Radio Board</name>
+      <boards>
+        <board pn="BRD4173" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4174" variant="A" revision="A00">
+      <opn>SLWRB4174A</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32MG13 2400/490 MHz 19 dBm Dual Band Radio Board</name>
+      <boards>
+        <board pn="BRD4174" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4174" variant="B" revision="A00">
+      <opn>SLWRB4174B</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32MG13 2400/169 MHz 19 dBm Dual Band Radio Board</name>
+      <boards>
+        <board pn="BRD4174" variant="B" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4175" variant="A" revision="A00">
+      <opn>SLWRB4175A</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32MG13 2400/434 MHz 10 dBm Dual Band Radio Board</name>
+      <boards>
+        <board pn="BRD4175" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4180" variant="A" revision="A00">
+      <opn>SLWRB4180A</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32xG21 2.4 GHz 20 dBm Radio Board</name>
+      <boards>
+        <board pn="BRD4180" variant="A" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4180" variant="A" revision="A01">
+      <opn>SLWRB4180A</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32xG21 2.4 GHz 20 dBm Radio Board</name>
+      <boards>
+        <board pn="BRD4180" variant="A" revision="A02"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4180" variant="B" revision="A00">
+      <opn>SLWRB4180B</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32xG21 2.4 GHz 20 dBm Radio Board</name>
+      <boards>
+        <board pn="BRD4180" variant="B" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4180" variant="B" revision="A01">
+      <opn>SLWRB4180B</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32xG21 2.4 GHz 20 dBm Radio Board</name>
+      <boards>
+        <board pn="BRD4180" variant="B" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4180" variant="B" revision="A02">
+      <opn>SLWRB4180B</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32xG21 2.4 GHz 20 dBm Radio Board</name>
+      <boards>
+        <board pn="BRD4180" variant="B" revision="A02"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4180" variant="B" revision="A03">
+      <opn>SLWRB4180B</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32xG21 2.4 GHz 20 dBm Radio Board</name>
+      <boards>
+        <board pn="BRD4180" variant="B" revision="A03"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4180" variant="B" revision="A04">
+      <opn>SLWRB4180B</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32xG21 2.4 GHz 20 dBm Radio Board</name>
+      <boards>
+        <board pn="BRD4180" variant="B" revision="A03"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4200" variant="A" revision="A00">
+      <opn>SLWRB4200A</opn>
+      <kit-type>WRB</kit-type>
+      <name>Z-Wave 700 - ZGM130S Radio Board w. SAW</name>
+      <boards>
+        <board pn="BRD4200" variant="A" revision="A03"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4200" variant="A" revision="A01">
+      <opn>SLWRB4200A</opn>
+      <kit-type>WRB</kit-type>
+      <name>Z-Wave 700 - ZGM130S Radio Board w. SAW</name>
+      <boards>
+        <board pn="BRD4200" variant="A" revision="A04"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4201" variant="A" revision="A00">
+      <opn>SLWRB4201A</opn>
+      <kit-type>WRB</kit-type>
+      <name>Z-Wave 700 - EFR32ZG14 Radio Board w. SAW</name>
+      <boards>
+        <board pn="BRD4201" variant="A" revision="A06"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4202" variant="A" revision="A00">
+      <opn>SLWRB4202A</opn>
+      <kit-type>WRB</kit-type>
+      <name>Z-Wave 700 - ZGM130S Radio Board</name>
+      <boards>
+        <board pn="BRD4202" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4202" variant="A" revision="A01">
+      <opn>SLWRB4202A</opn>
+      <kit-type>WRB</kit-type>
+      <name>Z-Wave 700 - ZGM130S Radio Board</name>
+      <boards>
+        <board pn="BRD4202" variant="A" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4206" variant="A" revision="A01">
+      <opn>SLWRB4206A</opn>
+      <kit-type>WRB</kit-type>
+      <name>Z-Wave 700 - EFR32ZG14 Long Range Radio Board</name>
+      <boards>
+        <board pn="BRD4206" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4207" variant="A" revision="A02">
+      <opn>SLWRB4207A</opn>
+      <kit-type>WRB</kit-type>
+      <name>Z-Wave 700 - ZGM130S Long Range Radio Board</name>
+      <boards>
+        <board pn="BRD4207" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4253" variant="A" revision="A00">
+      <opn>SLWRB4253A</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32FG12 2400/915 MHz 19 dBm Dual Band Radio Board</name>
+      <boards>
+        <board pn="BRD4253" variant="A" revision="A02"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4255" variant="A" revision="A00">
+      <opn>SLWRB4255A</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32FG13 2400/915 MHz 19 dBm Dual Band Radio Board</name>
+      <boards>
+        <board pn="BRD4255" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4256" variant="A" revision="A00">
+      <opn>SLWRB4256A</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32FG13 2400/868 MHz 10 dBm Dual Band Radio Board</name>
+      <boards>
+        <board pn="BRD4256" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4257" variant="A" revision="A01">
+      <opn>SLWRB4257A</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32FG14 2400/915 MHz 19 dBm Dual Band Radio Board</name>
+      <boards>
+        <board pn="BRD4257" variant="A" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4257" variant="B" revision="A01">
+      <opn>SLWRB4257B</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32FG14 2400/868 MHz 13 dBm Dual Band Radio Board</name>
+      <boards>
+        <board pn="BRD4257" variant="B" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4258" variant="A" revision="A00">
+      <opn>SLWRB4258A</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32FG14 2400/490 MHz 19 dBm Dual Band Radio Board</name>
+      <boards>
+        <board pn="BRD4258" variant="A" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4258" variant="B" revision="A00">
+      <opn>SLWRB4258B</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32FG14 2400/169 MHz 19 dBm Dual Band Radio Board</name>
+      <boards>
+        <board pn="BRD4258" variant="B" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4259" variant="A" revision="A00">
+      <opn>SLWRB4259A</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32FG14 2400/434 MHz 10 dBm Dual Band Radio Board</name>
+      <boards>
+        <board pn="BRD4259" variant="A" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4261" variant="A" revision="A00">
+      <opn>SLWRB4261A</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32FG14 2400/490 MHz 19 dBm Radio Board with TCXO</name>
+      <boards>
+        <board pn="BRD4261" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4262" variant="A" revision="A01">
+      <opn>SLWRB4262A</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32FG14 2400/915 MHz 19 dBm Radio Board with TCXO</name>
+      <boards>
+        <board pn="BRD4262" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4262" variant="B" revision="A01">
+      <opn>SLWRB4262B</opn>
+      <kit-type>WRB</kit-type>
+      <name>EFR32FG14 2400/868 MHz 13 dBm Radio Board with TCXO</name>
+      <boards>
+        <board pn="BRD4262" variant="B" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4308" variant="A" revision="A00">
+      <opn>SLWRB4308A</opn>
+      <kit-type>WRB</kit-type>
+      <name>xGM210PA32 Wireless Gecko Module Radio Board</name>
+      <boards>
+        <board pn="BRD4308" variant="A" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4308" variant="A" revision="A01">
+      <opn>SLWRB4308A</opn>
+      <kit-type>WRB</kit-type>
+      <name>xGM210PA32 Wireless Gecko Module Radio Board</name>
+      <boards>
+        <board pn="BRD4308" variant="A" revision="A02"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4308" variant="B" revision="A00">
+      <opn>SLWRB4308B</opn>
+      <kit-type>WRB</kit-type>
+      <name>xGM210PA22 Wireless Gecko Module Radio Board</name>
+      <boards>
+        <board pn="BRD4308" variant="B" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4308" variant="B" revision="A01">
+      <opn>SLWRB4308B</opn>
+      <kit-type>WRB</kit-type>
+      <name>xGM210PB22 Wireless Gecko Module Radio Board</name>
+      <boards>
+        <board pn="BRD4308" variant="B" revision="A02"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4308" variant="C" revision="A01">
+      <opn>SLWRB4308C</opn>
+      <kit-type>WRB</kit-type>
+      <name>xGM210PB32 Wireless Gecko Module Radio Board</name>
+      <boards>
+        <board pn="BRD4308" variant="C" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4308" variant="D" revision="A01">
+      <opn>SLWRB4308D</opn>
+      <kit-type>WRB</kit-type>
+      <name>xGM210PB22 Wireless Gecko Module Radio Board</name>
+      <boards>
+        <board pn="BRD4308" variant="D" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4311" variant="A" revision="A00">
+      <opn>SLWRB4311A</opn>
+      <kit-type>WRB</kit-type>
+      <name>BGM220P Wireless Gecko Module Radio Board</name>
+      <boards>
+        <board pn="BRD4311" variant="A" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4311" variant="B" revision="A01">
+      <opn>SLWRB4311B</opn>
+      <kit-type>WRB</kit-type>
+      <name>MGM220PC22 Wireless Gecko Module Radio Board</name>
+      <boards>
+        <board pn="BRD4311" variant="B" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4312" variant="A" revision="A00">
+      <opn>SLWRB4312A</opn>
+      <kit-type>WRB</kit-type>
+      <name>BGM220SC22 Wireless Gecko Module Radio Board</name>
+      <boards>
+        <board pn="BRD4312" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WRB4321" variant="A" revision="A02">
+      <opn>SLWRB4321A</opn>
+      <kit-type>WRB</kit-type>
+      <name>WGM160P Wi-Fi Module Radio Board</name>
+      <boards>
+        <board pn="BRD4321" variant="A" revision="A04"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6000" variant="A" revision="B02">
+      <opn>SLWSTK6000A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EFR32 Mighty Gecko 2.4 GHz Mesh Networking Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4151" variant="A" revision="B03"/>
+        <board pn="BRD4153" variant="A" revision="A03"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6000" variant="B" revision="A00">
+      <opn>SLWSTK6000B</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EFR32 Mighty Gecko 2.4 GHz Mesh Networking Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4161" variant="A" revision="A02"/>
+        <board pn="BRD4162" variant="A" revision="A03"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6001" variant="A" revision="B03">
+      <opn>SLWSTK6001A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EFR32 Mighty Gecko 2400/868 MHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4150" variant="A" revision="C02"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6002" variant="A" revision="B02">
+      <opn>SLWSTK6002A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EFR32 Mighty Gecko 2400/915 MHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4150" variant="B" revision="C01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6003" variant="A" revision="B01">
+      <opn>SLWSTK6003A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EFR32 Mighty Gecko 2400/434 MHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4152" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6005" variant="A">
+      <opn>SLWSTK6005A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>Wireless Gecko Multiband 2.4GHz/Sub-GHz Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A"/>
+        <board pn="BRD4163" variant="A"/>
+        <board pn="BRD4164" variant="A"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6006" variant="A">
+      <opn>SLWSTK6006A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EFR32xG21 2.4 GHz Mesh Networking Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A"/>
+        <board pn="BRD4180" variant="B"/>
+        <board pn="BRD4181" variant="B"/>
+        <board pn="BRD8010" variant="A"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6020" variant="A" revision="A04">
+      <opn>SLWSTK6020A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EFR32 Blue Gecko Bluetooth Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4100" variant="A" revision="B02"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6020" variant="B">
+      <opn>SLWSTK6020B</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EFR32 Blue Gecko Bluetooth Starter Kit</name>
+      <boards>
+        <board pn="BRD4104" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6021" variant="A">
+      <opn>SLWSTK6021A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EFR32xG22 Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A"/>
+        <board pn="BRD4182" variant="A"/>
+        <board pn="BRD4183" variant="C"/>
+        <board pn="BRD8010" variant="A"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6050" variant="A" revision="A00">
+      <opn>SLWSTK6050A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>Z-Wave 700 - Zen Gecko Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4202" variant="A" revision="A00"/>
+        <board pn="BRD8010" variant="A" revision="A02"/>
+        <board pn="BRD8029" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6060" variant="A" revision="A04">
+      <opn>SLWSTK6060A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EFR32 Flex Gecko 2400/915 MHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4250" variant="A" revision="B01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6060" variant="B">
+      <opn>SLWSTK6060B</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EFR32FG14 2400/915 MHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4257" variant="A" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6061" variant="A" revision="A05">
+      <opn>SLWSTK6061A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EFR32 Flex Gecko 2400/868 MHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4250" variant="B" revision="B02"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6061" variant="B" revision="A00">
+      <opn>SLWSTK6061B</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EFR32FG14 2400/868 MHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4257" variant="B" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6062" variant="A" revision="A04">
+      <opn>SLWSTK6062A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EFR32 Flex Gecko 2400/490 MHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4251" variant="A" revision="B01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6062" variant="B" revision="A00">
+      <opn>SLWSTK6062B</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EFR32FG14 2400/490 MHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4258" variant="A" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6063" variant="A" revision="A04">
+      <opn>SLWSTK6063A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EFR32 Flex Gecko 2400/434 MHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4251" variant="B" revision="B01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6063" variant="B" revision="A00">
+      <opn>SLWSTK6063B</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EFR32FG14 2400/434 MHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4259" variant="A" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6065" variant="A" revision="A05">
+      <opn>SLWSTK6065A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EFR32 Flex Gecko 2400/169 MHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4251" variant="D" revision="B02"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6065" variant="B" revision="A00">
+      <opn>SLWSTK6065B</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EFR32FG14 2400/169 MHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4258" variant="B" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6066" variant="A" revision="A01">
+      <opn>SLWSTK6066A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EFR32 Flex Gecko 2.4 GHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4252" variant="A" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6101" variant="A" revision="A01">
+      <opn>SLWSTK6101A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>Blue Gecko Module Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4300" variant="A" revision="A01"/>
+        <board pn="BRD4300" variant="A" revision="A03"/>
+        <board pn="BRD8006" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6101" variant="B" revision="A00">
+      <opn>SLWSTK6101B</opn>
+      <kit-type>WSTK</kit-type>
+      <name>Blue Gecko Module Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4300" variant="A" revision="A02"/>
+        <board pn="BRD4301" variant="A" revision="A00"/>
+        <board pn="BRD8006" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6101" variant="C" revision="A01">
+      <opn>SLWSTK6101C</opn>
+      <kit-type>WSTK</kit-type>
+      <name>Blue Gecko Module Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4300" variant="A" revision="A03"/>
+        <board pn="BRD4302" variant="A" revision="A04"/>
+        <board pn="BRD8006" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6101" variant="D" revision="A00">
+      <opn>SLWSTK6101D</opn>
+      <kit-type>WSTK</kit-type>
+      <name>Blue Gecko Module Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4305" variant="C" revision="A03"/>
+        <board pn="BRD4306" variant="A" revision="A01"/>
+        <board pn="BRD8010" variant="A" revision="A02"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6102" variant="A">
+      <opn>SLWSTK6102A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>xGM210P Wireless Gecko Module Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A"/>
+        <board pn="BRD4308" variant="A"/>
+        <board pn="BRD8010" variant="A"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6102" variant="A" revision="A00">
+      <opn>SLWSTK6102A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>xGM210P Wireless Gecko Module Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4308" variant="A" revision="A02"/>
+        <board pn="BRD8010" variant="A" revision="A02"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6103" variant="A">
+      <opn>SLWSTK6103A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>BGM220x Wireless Gecko Module Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A"/>
+        <board pn="BRD4310" variant="A"/>
+        <board pn="BRD4311" variant="A"/>
+        <board pn="BRD8010" variant="A"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6120" variant="A" revision="A03">
+      <opn>SLWSTK6120A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>Wi-Fi Module Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4320" variant="A" revision="A01"/>
+        <board pn="BRD8006" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6200" variant="A" revision="A02">
+      <opn>SLWSTK6200A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EZR32LG 868 MHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4502" variant="A" revision="B01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6201" variant="A" revision="A02">
+      <opn>SLWSTK6201A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EZR32LG 434 MHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4502" variant="B" revision="B01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6202" variant="A" revision="A03">
+      <opn>SLWSTK6202A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EZR32LG 915 MHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4503" variant="A" revision="B02"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6203" variant="A" revision="A01">
+      <opn>SLWSTK6203A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EZR32LG 490 MHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4505" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6204" variant="A" revision="A01">
+      <opn>SLWSTK6204A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EZR32LG 169 MHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4504" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6220" variant="A" revision="B00">
+      <opn>SLWSTK6220A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EZR32WG 868 MHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4502" variant="C" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6221" variant="A" revision="B00">
+      <opn>SLWSTK6221A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EZR32WG 434 MHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4502" variant="D" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6222" variant="A" revision="B01">
+      <opn>SLWSTK6222A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EZR32WG 915 MHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4503" variant="B" revision="A02"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6223" variant="A" revision="B00">
+      <opn>SLWSTK6223A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EZR32WG 490 MHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4505" variant="B" revision="A01"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6224" variant="A" revision="B01">
+      <opn>SLWSTK6224A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EZR32WG 169 MHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4504" variant="B" revision="A02"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6240" variant="A" revision="B00">
+      <opn>SLWSTK6240A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EZR32HG 868 MHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4546" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6241" variant="A" revision="B00">
+      <opn>SLWSTK6241A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EZR32HG 434 MHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4542" variant="B" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6242" variant="A" revision="B00">
+      <opn>SLWSTK6242A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EZR32HG 915 MHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4543" variant="B" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6243" variant="A" revision="B00">
+      <opn>SLWSTK6243A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EZR32HG 490 MHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4545" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="WSTK6244" variant="A" revision="B00">
+      <opn>SLWSTK6244A</opn>
+      <kit-type>WSTK</kit-type>
+      <name>EZR32HG 169 MHz Wireless Starter Kit</name>
+      <boards>
+        <board pn="BRD4001" variant="A" revision="A01"/>
+        <board pn="BRD4544" variant="A" revision="A00"/>
+      </boards>
+    </kit>
+
+    <kit pn="slsensorpuck.efm32g">
+      <opn></opn>
+      <kit-type></kit-type>
+      <name>Environmental and Biometric Sensor Puck</name>
+      <boards>
+        <board pn="slsensorpuck.efm32g"/>
+      </boards>
+    </kit>
+  </kits>
+</slkits>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+	<group name="mcu"/>
+
+	<group parent="mcu" name="arm">
+	    <property key="architectureFamily" value="ARM"/>
+		<property key="targetInterface" value="swd jtag" />
+	</group>
+
+	<group parent="mcu" name="8051">
+	    <property key="architectureFamily" value="8051"/>
+	</group>
+</collection>

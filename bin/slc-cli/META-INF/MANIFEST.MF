@@ -1,0 +1,34 @@
+Manifest-Version: 1.0
+Created-By: 11.0.5 (Amazon.com Inc.)
+
+Name: developer/scripting/slc_cli/lib/slc_thirdparty.py
+SHA-256-Digest: 3b00GsLk3+wZCEBloSo9fbnq786gY5oXkkSmBzrOslM=
+
+Name: configuration/studio/metadata/com.silabs.ss.uc.feature/uc_cli.pack
+ age
+SHA-256-Digest: p/MYfo6APl8sZLNCRWr0bcXTMHdocgMITBAyeUL62PA=
+
+Name: configuration/studio/metadata/com.silabs.ss.uc.feature/changelog
+SHA-256-Digest: BbQBGhX6Jh9nFgUjrZBvbcQp0RFLne+6OZlZpU85twY=
+
+Name: developer/scripting/slc_cli/readme.md
+SHA-256-Digest: EKwBhifvDwV7ai69LzPg3xdxd8tZXHjmXG0oWZkXaRU=
+
+Name: developer/scripting/slc_cli/lib/version.py
+SHA-256-Digest: /lKJnD2Su8qeyfSdifNflVl0OSPzUUBYu2leg4oKwDA=
+
+Name: developer/scripting/slc_cli/lib/slc_common.py
+SHA-256-Digest: Edj9SNng7lOS4yAf/cNwvzDgk5jytQ8Qz4YryY+7Nzk=
+
+Name: developer/scripting/slc_cli/requirements.txt
+SHA-256-Digest: 6hJfZX6SnZyyl5KXb9mDGa76lpYuvXAilWd2LADGbL8=
+
+Name: developer/scripting/slc_cli/slc.bat
+SHA-256-Digest: yEikH2Ua97WT3UVKNAfqWbLJrc5BVrhKU/hgrggEUvg=
+
+Name: developer/scripting/slc_cli/slc
+SHA-256-Digest: c8Arrow0HKdfC1AuveHD9w7/MfTseAw9HnWxATe1CGE=
+
+Name: developer/scripting/slc_cli/lib/slc_run.py
+SHA-256-Digest: R+o4MuppYyKmHbvlEgW+4kUn5gSVJ036OHJSTCTt7jw=
+

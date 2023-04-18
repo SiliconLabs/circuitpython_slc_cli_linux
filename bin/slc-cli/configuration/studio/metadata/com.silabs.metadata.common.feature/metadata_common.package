@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package id="com.silabs.metadata.common.feature" 
+         label="Common Metadata" 
+		 description="Provides common metadata for things like part groups, presentations, app notes, etc." 
+		 changelog="changelog" 
+		 types="part,appnote,presentation" 
+		 version="5.0.3"/>

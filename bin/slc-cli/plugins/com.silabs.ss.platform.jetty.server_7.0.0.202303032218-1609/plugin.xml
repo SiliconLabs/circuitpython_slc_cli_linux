@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension-point id="RestRequestFilter" name="REST Request Filter" schema="schema/RestRequestFilter.exsd"/>
+   <extension-point id="WebappServerStarted" name="Webapp Server Started" schema="schema/WebappServerStarted.exsd"/>
+</plugin>

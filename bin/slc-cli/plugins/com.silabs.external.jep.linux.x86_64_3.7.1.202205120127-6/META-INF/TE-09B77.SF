@@ -1,0 +1,33 @@
+Signature-Version: 1.0
+Created-By: 11.0.5 (Amazon.com Inc.)
+SHA-256-Digest-Manifest: 1b/H5HzvuRb9Hq/KzLH5ZJ/89K8RBiEoto99oNTN6i0=
+SHA-256-Digest-Manifest-Main-Attributes: e5B3zyTGM+LPA3nOPfj/78SpNOs/AiM
+ pz0K68DXhqnE=
+
+Name: external_jep/3.7.1/site-packages/jep/redirect_streams.py
+SHA-256-Digest: SMCyYHEV/J1SYsQQ+OL1HwbS5dx3ze5bdjSWplSrHXc=
+
+Name: external_jep/3.7.1/site-packages/jep/__init__.py
+SHA-256-Digest: 8KLgov97Y99k/Wyn68BWMtQ3vCLh0WtpW3X5r7XqBys=
+
+Name: external_jep/3.7.1/site-packages/jep/jep.so
+SHA-256-Digest: ujusvbTvy5l3zl3X0yXSfbh0lqdm5WMEsMUNOS5JEY8=
+
+Name: external_jep/3.7.1/site-packages/jep/console.py
+SHA-256-Digest: Tk7HgW9/eq5Up+/XTMVtaB1MSatK2fAsVcSm+tR2GIY=
+
+Name: external_jep/3.7.1/site-packages/jep/java_import_hook.py
+SHA-256-Digest: RJjqbbRgPn4UOR5xd9l/Tgl+s1R0fOjhEzOGY/2g1zw=
+
+Name: external_jep/3.7.1/site-packages/jep/jdbc.py
+SHA-256-Digest: qCpChcGJm29OywYrGv2jb6T5dSWuHM9H9qCeXdxKb4o=
+
+Name: external_jep/3.7.1/site-packages/jep/shared_modules_hook.py
+SHA-256-Digest: JIyU8G4YkMvdv3JCJ7u70kTIZdhtOkbpwevUjQS8vAU=
+
+Name: external_jep/3.7.1/site-packages/jep/version.py
+SHA-256-Digest: r56kI/oE5+MEeKmVPYN45KCl0VZNCS/1ugedCe7IBec=
+
+Name: META-INF/eclipse.inf
+SHA-256-Digest: ak2bzOGDjLurhLXRsFA/N7TRhvaP+YA1QdnivLjcXtk=
+

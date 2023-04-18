@@ -1,0 +1,4 @@
+#Eclipse Product File
+#Mon Mar 06 16:51:26 UTC 2023
+name=SLC Daemon
+id=com.silabs.uc.cli.daemon.product

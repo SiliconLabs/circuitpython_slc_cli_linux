@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: 11.0.5 (Amazon.com Inc.)
+
+Name: feature.xml
+SHA-256-Digest: 74EDrq8I2xVN6ZxRs6+9boFEoS6IFn/ryjsgL1N/igI=
+
+Name: feature.properties
+SHA-256-Digest: rI13+ae3RTYls1KezDODDKXmQuzyO29MQN5Y2zLo2Lw=
+

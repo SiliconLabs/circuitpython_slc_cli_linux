@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+	<group name="host">
+		<property key="enablementFamily" value="Wireless"/>
+
+		<part name="pc" label="UNIX">
+			<property key="hardware.part.type" value="Unix host" />
+			<property key="hidden" value="true" />
+			<property key="keywords" value=""/>
+		</part>
+		<part name="host-simulation" label="host-simulation">
+			<property key="hardware.part.type" value="Sim host" />
+			<property key="hidden" value="true" />
+			<property key="keywords" value=""/>
+		</part>
+		<part name="stm32f103ret" label="STM32F103RET">
+			<property key="hardware.part.type" value="STM32F103RET host" />
+			<property key="hidden" value="true" />
+			<property key="keywords" value=""/>
+		</part>
+	</group>
+
+	<group parent="host" name="linux">
+		<property key="keywords" value=""/>
+		<part name="linux_32" label="Linux 32 Bit">
+			<property key="hardware.part.type" value="Linux host" />
+		</part>
+		<part name="linux_64" label="Linux 64 Bit">
+			<property key="hardware.part.type" value="Linux host" />
+		</part>
+	</group>
+
+	<group parent="host" name="windows">
+		<property key="keywords" value=""/>
+		<part name="win32" label="Win32">
+			<property key="hardware.part.type" value="Windows host" />
+		</part>
+	</group>
+
+	<group parent="host" name="macos">
+		<property key="keywords" value=""/>
+		<part name="macos" label="MacOS">
+			<property key="hardware.part.type" value="MacOS host" />
+		</part>
+	</group>
+</collection>

@@ -1,0 +1,10 @@
+4.1.1
+	Update the Python3 bundle for OpenSSL1.1
+4.1.0
+	Update the Python3 bundle for MacOS Big Sur support
+4.0.2
+	improve isolation from other python installations
+4.0.1
+	Adding yaml module
+4.0.0
+	Initial release

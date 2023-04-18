@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package id="com.silabs.metadata.32bit_autogen.feature"
+         label="GA 32-Bit and Wireless Support"
+		 description="32-Bit and Wireless Part, Board, Kit Metadata"
+		 changelog="changelog"
+		 types="part,board,kit"
+		 version="5.0.21"/>

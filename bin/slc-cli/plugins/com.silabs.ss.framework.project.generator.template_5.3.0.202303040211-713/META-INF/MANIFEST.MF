@@ -1,0 +1,71 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: UC Templating Support
+Bundle-SymbolicName: com.silabs.ss.framework.project.generator.template;
+ singleton:=true
+Bundle-Version: 5.3.0.202303040211-713
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Require-Bundle: com.silabs.java.utils,com.silabs.external.guava,com.sila
+ bs.ss.platform.rcp.core,org.eclipse.core.runtime,com.silabs.ss.platform
+ .scripting.core,com.silabs.ss.platform.content.core
+Bundle-Activator: com.silabs.ss.framework.project.internal.generator.tem
+ plate.Activator
+Export-Package: com.silabs.ss.framework.project.api.generator.template
+Bundle-ActivationPolicy: lazy
+
+Name: plugin.xml
+SHA-256-Digest: j6+ZNHZpbGdv99TI0bTuwYTu2+NaqFTJyVH3e4pMhdQ=
+
+Name: com/silabs/ss/framework/project/internal/generator/template/Python
+ JinjaTemplateGenerator.class
+SHA-256-Digest: 3yqnNugKbEA1pKcV2h8qekkp724LNC6iOCcUStvhsoI=
+
+Name: com/silabs/ss/framework/project/api/generator/template/ITemplateGe
+ neratorFactory.class
+SHA-256-Digest: p1gNrrq2Un0xXfVx8cSBvlRZto7iaX6ZNYGGAgjhc2Y=
+
+Name: com/silabs/ss/framework/project/internal/generator/template/ITempl
+ ateGeneration.class
+SHA-256-Digest: 8tV4cRWf7NgZBk7zmFTSUHzzDhEJbLnnQ7Jq8dgYj68=
+
+Name: com/silabs/ss/framework/project/internal/generator/template/JinjaT
+ emplateGeneratorFactory.class
+SHA-256-Digest: 8jRrD3rTOcKDdyWOsInEqTuf/i8EB4Jm1rW6krPZSME=
+
+Name: .api_description
+SHA-256-Digest: Y1kNEPLjL7XN3+i4k1CJL+LfarP6DCXtZQeRseu3RVg=
+
+Name: com/silabs/ss/framework/project/api/generator/template/TemplateMan
+ ager$NamedFactory.class
+SHA-256-Digest: fvFSf/ylu8I7fzrQA8TD0S/Cpg17Lo3K2iE2+BMhRQY=
+
+Name: script/jinja_uc_interface.py
+SHA-256-Digest: wpRkv282JgVLvGUcjJcrmHuZwM1s8rbIpS4Ghyhokj8=
+
+Name: META-INF/eclipse.inf
+SHA-256-Digest: G2hFTVPngfh5NUf96Pyy87A7XIE083udjEBFy4pUc/M=
+
+Name: com/silabs/ss/framework/project/api/generator/template/TemplateCon
+ tribution.class
+SHA-256-Digest: b/Qv2jl/wgaV+eAzdJc8itITgN/2MsQPWCiDIaq+IvQ=
+
+Name: com/silabs/ss/framework/project/api/generator/template/ITemplateCo
+ ntribution.class
+SHA-256-Digest: /KZetXTYvjyXaN/ZhTlHKR1Ujm5SZramr4twZpp1Be0=
+
+Name: com/silabs/ss/framework/project/api/generator/template/ITemplateGe
+ nerator.class
+SHA-256-Digest: QHbmORw9LCEhphtZMGx9pAy1yNl+S4bEYaqH00LFPLo=
+
+Name: com/silabs/ss/framework/project/api/generator/template/TemplateMan
+ ager.class
+SHA-256-Digest: t55H1umvsAzQdG1+tInhnBneyXXKvkvykytoEuHek80=
+
+Name: com/silabs/ss/framework/project/internal/generator/template/Templa
+ teGenerator.class
+SHA-256-Digest: cJpNbcleoZPAR4lx7vCT0dM7dYHbFZWcAOd9IIK2qqI=
+
+Name: com/silabs/ss/framework/project/internal/generator/template/Activa
+ tor.class
+SHA-256-Digest: 5BoUHwQ3tJ/L6rXoHRPwfD7vtz7EOd9TF/B8Uv+kqmY=
+

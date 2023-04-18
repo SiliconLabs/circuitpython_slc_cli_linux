@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.silabs.metadata.common.feature"
+      label="Common Metadata"
+      version="5.0.3.202206030305-331"
+      provider-name="Silicon Labs">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="">
+      %license
+   </license>
+
+
+
+</feature>
