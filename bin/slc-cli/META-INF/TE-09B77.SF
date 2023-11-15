@@ -1,14 +1,22 @@
 Signature-Version: 1.0
 Created-By: 11.0.5 (Amazon.com Inc.)
-SHA-256-Digest-Manifest: ivsmrURh1CpoanIMMRlurbDmoUEK8ZKbj0yALD6/kaQ=
+SHA-256-Digest-Manifest: 42xHP5FNHiU2SdyHHqnXcQtOr+rZiinYItsoDvm+2Cc=
 SHA-256-Digest-Manifest-Main-Attributes: qP7S86jaiNHx4NYt2o98Nj6PWaGYp26
  7Hf2JBMnaM84=
 
-Name: configuration/studio/metadata/com.silabs.ss.support.jep.feature/je
- p_support.package
-SHA-256-Digest: 0Z8wt18tkRwl+Si26uCVaVtKp1VFqBR5TPF9o0m3iyU=
+Name: configuration/studio/metadata/com.silabs.metadata.common.feature/m
+ etadata/common.parts
+SHA-256-Digest: aUMJI1WTaNW+suSuzysLZzsXwvFvh0YRR2c8CwvsaDY=
 
-Name: configuration/studio/metadata/com.silabs.ss.support.jep.feature/ch
- angelog
-SHA-256-Digest: 3IefX3KvDhtiQfWw4MPiEf9lZi9zaIsm5RmmV0/2pzc=
+Name: configuration/studio/metadata/com.silabs.metadata.common.feature/m
+ etadata_common.package
+SHA-256-Digest: U1++/5gxfePln4ALA2onEBsTJH557Ks5z8ZpxEkYQ68=
+
+Name: configuration/studio/metadata/com.silabs.metadata.common.feature/m
+ etadata/host.parts
+SHA-256-Digest: SKF1RfsozdMDzMGD4KDmdFzJuO+dUlUOZzLvSmGoC3A=
+
+Name: configuration/studio/metadata/com.silabs.metadata.common.feature/c
+ hangelog
+SHA-256-Digest: G1NIlMW+MC3iNf9XOY1cCSfpClvo/KWN4auqm55cfjY=
 

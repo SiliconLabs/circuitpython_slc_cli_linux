@@ -1,23 +1,2 @@
-#!/usr/bin/env python3
-
-import sys
-import os
-
-
-def _addToplevelPath(relative_path_from_script):
-    return (
-        os.path.abspath(os.path.join(__file__, os.pardir))
-        + "/"
-        + relative_path_from_script
-    )
-
-
-sys.path.insert(0, _addToplevelPath("lib"))
-
-if __name__ == "__main__":
-    # Allow this to be called without -m for ease of use.
-    import sys
-
-    from lib.slc_run import _entryPoint
-
-    sys.exit(_entryPoint(sys.argv[1:]))
+#!/usr/bin/env bash
+java -jar $(dirname "$0")/slc.jar "$@"

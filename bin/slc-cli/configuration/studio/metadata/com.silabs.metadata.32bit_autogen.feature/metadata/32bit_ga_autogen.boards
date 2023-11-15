@@ -13,11 +13,37 @@
       </mcu>
     </board>
 
+    <board pn="BRD2001" variant="B" revision="A00">
+      <pcb>PCB2001B</pcb>
+      <name>EFM32 Gecko Starter Kit board</name>
+      <property key="boardTypes" value="mainBoard targetBoard"/>
+      <property key="enablementFamily" value="32-bit Microcontrollers"/>
+      <property key="firmwareDirectory" value="asset://hwtools/firmware/S1015F_pro_kit_firmware_package"/>
+      <property key="targetInterface" value="swd"/>
+      <mcu>
+        <part>EFM32G890F128</part>
+        <family>EFM32G</family>
+      </mcu>
+    </board>
+
     <board pn="BRD2010" variant="A" revision="B01">
       <pcb>PCB2010</pcb>
       <name>EFM32 Zero Gecko Starter Kit board</name>
       <property key="boardTypes" value="mainBoard targetBoard"/>
       <property key="firmwareDirectory" value="asset://hwtools/firmware/S1014_common_stk_firmware_package"/>
+      <property key="targetInterface" value="swd"/>
+      <mcu>
+        <part>EFM32ZG222F32</part>
+        <family>EFM32ZG</family>
+      </mcu>
+    </board>
+
+    <board pn="BRD2010" variant="B" revision="A00">
+      <pcb>PCB2010B</pcb>
+      <name>EFM32 Zero Gecko Starter Kit board</name>
+      <property key="boardTypes" value="mainBoard targetBoard"/>
+      <property key="enablementFamily" value="32-bit Microcontrollers"/>
+      <property key="firmwareDirectory" value="asset://hwtools/firmware/S1015F_pro_kit_firmware_package"/>
       <property key="targetInterface" value="swd"/>
       <mcu>
         <part>EFM32ZG222F32</part>
@@ -37,11 +63,37 @@
       </mcu>
     </board>
 
+    <board pn="BRD2012" variant="B" revision="A00">
+      <pcb>PCB2012</pcb>
+      <name>EFM32 Happy Gecko Starter Kit Board</name>
+      <property key="boardTypes" value="mainBoard targetBoard"/>
+      <property key="enablementFamily" value="32-bit Microcontrollers"/>
+      <property key="firmwareDirectory" value="asset://hwtools/firmware/S1015F_pro_kit_firmware_package"/>
+      <property key="targetInterface" value="swd"/>
+      <mcu>
+        <part>EFM32HG322F64</part>
+        <family>EFM32HG</family>
+      </mcu>
+    </board>
+
     <board pn="BRD2100" variant="A" revision="A05">
       <pcb>PCB2100</pcb>
       <name>EFM32 Tiny Gecko Starter Kit board</name>
       <property key="boardTypes" value="mainBoard targetBoard"/>
       <property key="firmwareDirectory" value="asset://hwtools/firmware/S1010_efm32_common_stk_firmware_package"/>
+      <property key="targetInterface" value="swd"/>
+      <mcu>
+        <part>EFM32TG840F32</part>
+        <family>EFM32TG</family>
+      </mcu>
+    </board>
+
+    <board pn="BRD2100" variant="B" revision="A00">
+      <pcb>PCB2100B</pcb>
+      <name>EFM32 Tiny Gecko Starter Kit board</name>
+      <property key="boardTypes" value="mainBoard targetBoard"/>
+      <property key="enablementFamily" value="32-bit Microcontrollers"/>
+      <property key="firmwareDirectory" value="asset://hwtools/firmware/S1015F_pro_kit_firmware_package"/>
       <property key="targetInterface" value="swd"/>
       <mcu>
         <part>EFM32TG840F32</part>
@@ -260,6 +312,19 @@
       </mcu>
     </board>
 
+    <board pn="BRD2503" variant="B" revision="A00">
+      <pcb>PCB2503A</pcb>
+      <name>PG22 Dev Kit Board</name>
+      <property key="boardTypes" value="mainBoard targetBoard"/>
+      <property key="enablementFamily" value="32-bit Microcontrollers"/>
+      <property key="firmwareDirectory" value="asset://hwtools/firmware/S1015D_adapter_firmware_package"/>
+      <property key="targetInterface" value="swd"/>
+      <mcu>
+        <part>EFM32PG22C200F512IM40</part>
+        <family>EFM32PG22C</family>
+      </mcu>
+    </board>
+
     <board pn="BRD2504" variant="A">
       <pcb>PCB2504A</pcb>
       <name>EFM32PG23 Pearl Gecko Starter Kit board</name>
@@ -326,6 +391,19 @@
       </mcu>
     </board>
 
+    <board pn="BRD2506" variant="A" revision="A03">
+      <pcb>PCB2506A</pcb>
+      <name>PG28 Pro Kit Board</name>
+      <property key="boardTypes" value="mainBoard targetBoard"/>
+      <property key="enablementFamily" value="32-bit Microcontrollers"/>
+      <property key="firmwareDirectory" value="asset://hwtools/firmware/S1015F_pro_kit_firmware_package"/>
+      <property key="targetInterface" value="swd"/>
+      <mcu>
+        <part>EFM32PG28B310F1024IM68</part>
+        <family>EFM32PG28B</family>
+      </mcu>
+    </board>
+
     <board pn="BRD2600" variant="A" revision="A01">
       <pcb>PCB2600A</pcb>
       <name>EFR32FG23 Dev Kit Board</name>
@@ -381,6 +459,21 @@
       </mcu>
     </board>
 
+    <board pn="BRD2602" variant="A" revision="A02">
+      <pcb>PCB2602A</pcb>
+      <name>EFR32BG27 +8 dBm Dev Kit Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="firmwareDirectory" value="asset://hwtools/firmware/S1015D_adapter_firmware_package"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>EFR32BG27C140F768IM40</part>
+        <family>EFR32BG27C</family>
+      </mcu>
+    </board>
+
     <board pn="BRD2603" variant="A" revision="A00">
       <pcb>PCB2603A</pcb>
       <name>ZGM230 +14 dBm Dev Kit Board</name>
@@ -395,6 +488,22 @@
       <module>
         <part>ZGM230SB27HGN</part>
         <name>ZGM230S Z-Wave Module</name>
+      </module>
+    </board>
+
+    <board pn="BRD2603" variant="B" revision="A00">
+      <pcb>PCB2603A</pcb>
+      <name>ZGM230 +14 dBm Dev Kit Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="firmwareDirectory" value="asset://hwtools/firmware/S1015D_adapter_firmware_package"/>
+      <mcu>
+        <part>ZGM230SA27HGN</part>
+        <family>ZGM230</family>
+      </mcu>
+      <module>
+        <part>ZGM230SA27HGN3</part>
+        <name>ZGM230S</name>
       </module>
     </board>
 
@@ -455,6 +564,127 @@
       <module>
         <part>MGM240PB32VNA</part>
         <name>MGM240P</name>
+      </module>
+    </board>
+
+    <board pn="BRD2705" variant="A" revision="A01">
+      <pcb>PCB2705A</pcb>
+      <name>EFR32xG28 Explorer Kit</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="firmwareDirectory" value="asset://hwtools/firmware/S1015D_adapter_firmware_package"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>EFR32ZG28B312F1024IM48</part>
+        <family>EFR32ZG28B</family>
+      </mcu>
+    </board>
+
+    <board pn="BRD2900" variant="A" revision="A00">
+      <pcb></pcb>
+      <name>Laird Connectivity RM1261 Development Kit</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="firmwareDirectory" value="asset://hwtools/firmware/S1015D_adapter_firmware_package"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>EFR32BG22C224F512IM40</part>
+        <family>EFR32BG22C</family>
+      </mcu>
+    </board>
+
+    <board pn="BRD2901" variant="A" revision="A00">
+      <pcb></pcb>
+      <name>Laird Connectivity RM1262 Development Kit</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="firmwareDirectory" value="asset://hwtools/firmware/S1015D_adapter_firmware_package"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>EFR32BG22C224F512IM40</part>
+        <family>EFR32BG22C</family>
+      </mcu>
+    </board>
+
+    <board pn="BRD2902" variant="A" revision="A00">
+      <pcb></pcb>
+      <name>Laird Connectivity Lyra 24P 10dBm (Built-in) Ant Development Kit</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="firmwareDirectory" value="asset://hwtools/firmware/S1015D_adapter_firmware_package"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>BGM240PB22VNA</part>
+        <family>EFR32BG24</family>
+      </mcu>
+      <module>
+        <part>BGM240PB22VNA</part>
+        <name></name>
+      </module>
+    </board>
+
+    <board pn="BRD2903" variant="A" revision="A00">
+      <pcb></pcb>
+      <name>Laird Connectivity Lyra 24P 20dBm (RF) Pin Development Kit</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="firmwareDirectory" value="asset://hwtools/firmware/S1015D_adapter_firmware_package"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>BGM240PB32VNN</part>
+        <family>EFR32BG24</family>
+      </mcu>
+      <module>
+        <part>BGM240PB32VNN</part>
+        <name></name>
+      </module>
+    </board>
+
+    <board pn="BRD2904" variant="A" revision="A00">
+      <pcb></pcb>
+      <name>Laird Connectivity Lyra 24P 20dBm (Built-in) Ant Development Kit</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="firmwareDirectory" value="asset://hwtools/firmware/S1015D_adapter_firmware_package"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>BGM240PB32VNA</part>
+        <family>EFR32BG24</family>
+      </mcu>
+      <module>
+        <part>BGM240PB32VNA</part>
+        <name></name>
+      </module>
+    </board>
+
+    <board pn="BRD2905" variant="A" revision="A00">
+      <pcb></pcb>
+      <name>Laird Connectivity Lyra 24S 10dBm Development Kit</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="firmwareDirectory" value="asset://hwtools/firmware/S1015D_adapter_firmware_package"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>BGM240SB22VNA</part>
+        <family>EFR32BG24</family>
+      </mcu>
+      <module>
+        <part>BGM240SB22VNA</part>
+        <name></name>
       </module>
     </board>
 
@@ -721,6 +951,62 @@
       </mcu>
     </board>
 
+    <board pn="BRD4110" variant="A" revision="A00">
+      <pcb>PCB4110A</pcb>
+      <name>BG27 2.4 GHz 4 dBm DCDC Buck CSP Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>EFR32BG27C320F768GJ39</part>
+        <family>EFR32BG27C</family>
+      </mcu>
+    </board>
+
+    <board pn="BRD4110" variant="B" revision="A01">
+      <pcb>PCB4110B</pcb>
+      <name>BG27 2.4 GHz 4 dBm DCDC Buck CSP Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>EFR32BG27C320F768GJ39</part>
+        <family>EFR32BG27C</family>
+      </mcu>
+    </board>
+
+    <board pn="BRD4111" variant="A" revision="A01">
+      <pcb>PCB4111A</pcb>
+      <name>BG27 2.4 GHz 4 dBm DCDC Boost CSP Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>EFR32BG27C320F768GJ39</part>
+        <family>EFR32BG27C</family>
+      </mcu>
+    </board>
+
+    <board pn="BRD4111" variant="B" revision="A01">
+      <pcb>PCB4111B</pcb>
+      <name>BG27 2.4 GHz 4 dBm DCDC Boost CSP Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>EFR32BG27C320F768GJ39</part>
+        <family>EFR32BG27C</family>
+      </mcu>
+    </board>
+
     <board pn="BRD4115" variant="A" revision="A00">
       <pcb>PCB4115A</pcb>
       <name>BG24 2.4 Ghz 4 dBm WLCSP Radio Board</name>
@@ -731,6 +1017,20 @@
       <property key="wirelessBoard" value="true"/>
       <mcu>
         <part>EFR32BG24B410F1536IJ42</part>
+        <family>EFR32BG24B</family>
+      </mcu>
+    </board>
+
+    <board pn="BRD4115" variant="B" revision="A00">
+      <pcb>PCB4115A</pcb>
+      <name>BG24 2.4 Ghz 4 dBm WLCSP Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>EFR32BG24B310F1536IJ42</part>
         <family>EFR32BG24B</family>
       </mcu>
     </board>
@@ -1742,6 +2042,48 @@
       </mcu>
     </board>
 
+    <board pn="BRD4194" variant="A" revision="A06">
+      <pcb>PCB4194A</pcb>
+      <name>EFR32xG27 2.4 GHz 8 dBm Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>EFR32MG27C140F768IM40</part>
+        <family>EFR32MG27C</family>
+      </mcu>
+    </board>
+
+    <board pn="BRD4195" variant="B" revision="A00">
+      <pcb>PCB4195A</pcb>
+      <name>EFR32xG21B 2.4 GHz 10 dBm Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>EFR32MG21B010F1024IM32</part>
+        <family>EFR32MG21B</family>
+      </mcu>
+    </board>
+
+    <board pn="BRD4196" variant="B" revision="A00">
+      <pcb>PCB4196A</pcb>
+      <name>EFR32xG21B 2.4 GHz 20 dBm Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>EFR32MG21B020F1024IM32</part>
+        <family>EFR32MG21B</family>
+      </mcu>
+    </board>
+
     <board pn="BRD4197" variant="A" revision="A01">
       <pcb>PCB4197A</pcb>
       <name>EFR32xG24 2.4 GHz x dBm /Si4468 868-915 MHz 14 dBm Radio Board</name>
@@ -2189,6 +2531,62 @@
     <board pn="BRD4272" variant="A" revision="A03">
       <pcb>PCB4272A</pcb>
       <name>EFR32FG25 470 MHz +16 dBm Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>EFR32FG25B222F1920IM56</part>
+        <family>EFR32FG25B</family>
+      </mcu>
+    </board>
+
+    <board pn="BRD4273" variant="A" revision="A09">
+      <pcb>PCB4273A</pcb>
+      <name>EFR32FG25+EFF01 902-928 MHz +30 dBm Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>EFR32FG25B222F1920IM56</part>
+        <family>EFR32FG25B</family>
+      </mcu>
+    </board>
+
+    <board pn="BRD4273" variant="A" revision="A10">
+      <pcb>PCB4273A</pcb>
+      <name>EFR32FG25+EFF01 902-928 MHz 30 dBm Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>EFR32FG25B222F1920IM56</part>
+        <family>EFR32FG25B</family>
+      </mcu>
+    </board>
+
+    <board pn="BRD4274" variant="A" revision="A05">
+      <pcb>PCB4274A</pcb>
+      <name>EFR32FG25+EFF01 863-870 MHz +30 dBm Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>EFR32FG25B222F1920IM56</part>
+        <family>EFR32FG25B</family>
+      </mcu>
+    </board>
+
+    <board pn="BRD4274" variant="A" revision="A06">
+      <pcb>PCB4274A</pcb>
+      <name>EFR32FG25+EFF01 863-870 MHz 30 dBm Radio Board</name>
       <property key="boardTypes" value="targetBoard"/>
       <property key="enablementFamily" value="Wireless"/>
       <property key="recommendedMainBoard" value="brd4002a"/>
@@ -2832,6 +3230,128 @@
       </module>
     </board>
 
+    <board pn="BRD4319" variant="B" revision="A00">
+      <pcb>PCB4319A</pcb>
+      <name>MGM240L022VIFx Lighting Module Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>MGM240L022VIF</part>
+        <family>MGM240L</family>
+      </mcu>
+      <module>
+        <part>MGM240L022VIF</part>
+        <name>MGM240L</name>
+      </module>
+    </board>
+
+    <board pn="BRD4319" variant="C" revision="A00">
+      <pcb>PCB4319A</pcb>
+      <name>MGM240L022VIFx UNL Lighting Module Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>MGM240L022VIF</part>
+        <family>MGM240L</family>
+      </mcu>
+      <module>
+        <part>MGM240L022VIF</part>
+        <name>MGM240L</name>
+      </module>
+    </board>
+
+    <board pn="BRD4319" variant="D" revision="A00">
+      <pcb>PCB4319A</pcb>
+      <name>MGM240LA22UIFx UNL Lighting Module Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>MGM240LA22UIF</part>
+        <family>MGM240L</family>
+      </mcu>
+      <module>
+        <part>MGM240LA22UIF</part>
+        <name>MGM240L</name>
+      </module>
+    </board>
+
+    <board pn="BRD4319" variant="E" revision="A00">
+      <pcb>PCB4319A</pcb>
+      <name>MGM240L</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>MGM240LA22VIF</part>
+        <family></family>
+      </mcu>
+      <module>
+        <part>MGM240LA22VIF</part>
+        <name>MGM240L</name>
+      </module>
+    </board>
+
+    <board pn="BRD4319" variant="F" revision="A00">
+      <pcb>PCB4319A</pcb>
+      <name>MGM240LD22VIFx UNL Lighting Module Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>MGM240LD22VIF</part>
+        <family>MGM240L</family>
+      </mcu>
+    </board>
+
+    <board pn="BRD4319" variant="G" revision="A00">
+      <pcb>PCB4319A</pcb>
+      <name>MGM240LA22UIFx Lighting Module Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>MGM240LA22UIF</part>
+        <family>MGM240L</family>
+      </mcu>
+      <module>
+        <part>MGM240LA22UIF</part>
+        <name>MGM240L</name>
+      </module>
+    </board>
+
+    <board pn="BRD4319" variant="H" revision="A00">
+      <pcb>PCB4319A</pcb>
+      <name>MGM240LA22VIFx Lighting Module Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>MGM240LA22VIF</part>
+        <family>MGM240L</family>
+      </mcu>
+      <module>
+        <part>MGM240LA22VIF</part>
+        <name>MGM240L</name>
+      </module>
+    </board>
+
     <board pn="BRD4320" variant="A">
       <pcb>PCB4320</pcb>
       <name>WGM110 Wi-Fi Module Radio Board</name>
@@ -2855,11 +3375,11 @@
       <property key="targetInterface" value="swd"/>
       <property key="wirelessBoard" value="true"/>
       <mcu>
-        <part>WGM160PX22KGA2</part>
+        <part>WGM160PX22KGA</part>
         <family>WGM160P</family>
       </mcu>
       <module>
-        <part>WGM160PX22KGA2</part>
+        <part>WGM160PX22KGA</part>
         <name>WGM160P Wi-Fi Module</name>
       </module>
     </board>
@@ -2871,11 +3391,11 @@
       <property key="hidden" value="true"/>
       <property key="targetInterface" value="swd"/>
       <mcu>
-        <part>WGM160PX22KGA2</part>
+        <part>WGM160PX22KGA</part>
         <family>WGM160P</family>
       </mcu>
       <module>
-        <part>WGM160PX22KGA2</part>
+        <part>WGM160PX22KGA</part>
         <name>WGM160P Wi-Fi Module</name>
       </module>
     </board>
@@ -2887,11 +3407,11 @@
       <property key="targetInterface" value="swd"/>
       <property key="wirelessBoard" value="true"/>
       <mcu>
-        <part>WGM160PX22KGA2</part>
+        <part>WGM160PX22KGA</part>
         <family>WGM160P</family>
       </mcu>
       <module>
-        <part>WGM160PX22KGA2</part>
+        <part>WGM160PX22KGA</part>
         <name>WGM160P Wi-Fi Module</name>
       </module>
     </board>
@@ -2903,11 +3423,11 @@
       <property key="targetInterface" value="swd"/>
       <property key="wirelessBoard" value="true"/>
       <mcu>
-        <part>WGM160PX22KGA2</part>
+        <part>WGM160PX22KGA</part>
         <family>WGM160P</family>
       </mcu>
       <module>
-        <part>WGM160PX22KGA2</part>
+        <part>WGM160PX22KGA</part>
         <name>WGM160P Wi-Fi Module</name>
       </module>
     </board>
@@ -2927,6 +3447,39 @@
       <module>
         <part>FGM230SB27HGN</part>
         <name>FGM230S Module</name>
+      </module>
+    </board>
+
+    <board pn="BRD4328" variant="B" revision="A00">
+      <pcb>PCB4328A</pcb>
+      <name>FGM230SA Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <mcu>
+        <part>FGM230SA27HGN</part>
+        <family>FGM23</family>
+      </mcu>
+      <module>
+        <part>FGM230SA27HGN3</part>
+        <name>FGM230S</name>
+      </module>
+    </board>
+
+    <board pn="BRD4329" variant="A" revision="A00">
+      <pcb>PCB4309B</pcb>
+      <name>xGM210L-3 Wireless Gecko Module Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>MGM210LA22JIF</part>
+        <family>EFR32MG21A</family>
+      </mcu>
+      <module>
+        <part>MGM210LA22JIF</part>
+        <name>MGM210L</name>
       </module>
     </board>
 
@@ -2990,6 +3543,161 @@
         <part>BGM241SD22VNA</part>
         <name>BGM241S</name>
       </module>
+    </board>
+
+    <board pn="BRD4337" variant="A" revision="A00">
+      <pcb>PCB4319A</pcb>
+      <name>xGM240L Lighting Module Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>MGM240LD22VIF</part>
+        <family>MGM240L</family>
+      </mcu>
+      <module>
+        <part>MGM240LD22VIF</part>
+        <name>MGM240L</name>
+      </module>
+    </board>
+
+    <board pn="BRD4338" variant="A" revision="A11">
+      <pcb>PCB4338A</pcb>
+      <name>SiWG917 Single-band Wi-Fi and BLE 8MB Flash Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <mcu>
+        <part>SiWG917M111MGTBA</part>
+        <family>SiWx917</family>
+      </mcu>
+    </board>
+
+    <board pn="BRD4342" variant="A" revision="A01">
+      <pcb>PCB4342A</pcb>
+      <name>SiWG917 Single-band Wi-Fi and BLE 8MB Flash + 8MB ext PSRAM Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>SiWG917M111MGTBA</part>
+        <family>SiWx917</family>
+      </mcu>
+    </board>
+
+    <board pn="BRD4400" variant="B" revision="A00">
+      <pcb>PCB4400B</pcb>
+      <name>EFR32xG28 868/915 MHz +14 dBm + 2.4 GHz +10 dBm Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>EFR32ZG28B312F1024IM68</part>
+        <family>EFR32ZG28B</family>
+      </mcu>
+    </board>
+
+    <board pn="BRD4400" variant="B" revision="A01">
+      <pcb>PCB4400B</pcb>
+      <name>EFR32xG28 868/915 MHz +14 dBm + 2.4 GHz +10 dBm Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>EFR32ZG28B312F1024IM68</part>
+        <family>EFR32ZG28B</family>
+      </mcu>
+    </board>
+
+    <board pn="BRD4400" variant="C" revision="A00">
+      <pcb>PCB4400C</pcb>
+      <name>EFR32xG28 868/915 MHz +14 dBm + 2.4 GHz +10 dBm Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>EFR32ZG28B312F1024IM68</part>
+        <family>EFR32ZG28B</family>
+      </mcu>
+    </board>
+
+    <board pn="BRD4401" variant="B" revision="A00">
+      <pcb>PCB4401B</pcb>
+      <name>EFR32xG28 868/915 MHz +20 dBm + 2.4 GHz +10 dBm Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>EFR32ZG28B322F1024IM68</part>
+        <family>EFR32ZG28B</family>
+      </mcu>
+    </board>
+
+    <board pn="BRD4401" variant="B" revision="A01">
+      <pcb>PCB4401B</pcb>
+      <name>EFR32xG28 868/915 MHz +20 dBm + 2.4 GHz +10 dBm Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>EFR32ZG28B322F1024IM68</part>
+        <family>EFR32ZG28B</family>
+      </mcu>
+    </board>
+
+    <board pn="BRD4401" variant="C" revision="A00">
+      <pcb>PCB4401C</pcb>
+      <name>EFR32xG28 868/915 MHz +20 dBm + 2.4 GHz +10 dBm Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>EFR32ZG28B322F1024IM68</part>
+        <family>EFR32ZG28B</family>
+      </mcu>
+    </board>
+
+    <board pn="BRD4402" variant="B" revision="A00">
+      <pcb>PCB4402A</pcb>
+      <name>EFR32xG22B 2.4 GHz 6 dBm Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>EFR32BG22C224F512IM40</part>
+        <family>EFR32BG22C</family>
+      </mcu>
+    </board>
+
+    <board pn="BRD4403" variant="B" revision="A00">
+      <pcb>PCB4403B</pcb>
+      <name>EFR32xG22B 2.4 GHz 6 dBm QFN32 Radio Board</name>
+      <property key="boardTypes" value="targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <property key="recommendedMainBoard" value="brd4002a"/>
+      <property key="targetInterface" value="swd"/>
+      <property key="wirelessBoard" value="true"/>
+      <mcu>
+        <part>EFR32BG22C224F512IM32</part>
+        <family>EFR32BG22C</family>
+      </mcu>
     </board>
 
     <board pn="BRD4502" variant="A" revision="B00">
@@ -3442,6 +4150,17 @@
       <property key="enablementFamily" value="Wireless"/>
     </board>
 
+    <board pn="BRD8035" variant="A" revision="A00">
+      <pcb>PCB8035A</pcb>
+      <name>RS9116 Single Band EXP Board</name>
+      <property key="boardTypes" value="expansionBoard targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <module>
+        <part>RS9116W-SB00-QMS-B2A</part>
+        <name></name>
+      </module>
+    </board>
+
     <board pn="BRD8036" variant="A">
       <pcb>PCB8036A</pcb>
       <name>Si917 Single Band EXP Board</name>
@@ -3451,6 +4170,17 @@
         <part>Si917-SB00</part>
         <family></family>
       </mcu>
+    </board>
+
+    <board pn="BRD8037" variant="B" revision="A01">
+      <pcb>PCB8037B</pcb>
+      <name>RS9116 AC1 EXP Board</name>
+      <property key="boardTypes" value="expansionBoard targetBoard"/>
+      <property key="enablementFamily" value="Wireless"/>
+      <module>
+        <part>RS916WS00AC1A1</part>
+        <name>RS916W</name>
+      </module>
     </board>
 
     <board pn="BRD8042" variant="A" revision="A02">

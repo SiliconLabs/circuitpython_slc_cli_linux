@@ -5,4 +5,4 @@
 		 changelog="changelog"
 		 partCompatibility="mcu.arm.*" 
 		 types="tool"
-		 version="5.6.0"/>
+		 version="5.6.9"/>

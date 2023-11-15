@@ -1,37 +1,13 @@
 Signature-Version: 1.0
-Created-By: 11.0.5 (Amazon.com Inc.)
-SHA-256-Digest-Manifest: 0OfEQ9wJWfQkOoKqGt1Ov4sncdshR9MCUzN4c+kGI4Q=
-SHA-256-Digest-Manifest-Main-Attributes: qP7S86jaiNHx4NYt2o98Nj6PWaGYp26
- 7Hf2JBMnaM84=
-
-Name: developer/scripting/slc_cli/lib/slc_thirdparty.py
-SHA-256-Digest: 5UHWJohfByg5HVGbKOI/ZrQOzuVFEs2JVu/hGQQxh24=
+Created-By: 17.0.3 (Amazon.com Inc.)
+SHA-256-Digest-Manifest: H4/pqZvy+DpX2b/xBoGxUFr5IrPzcgxuyPfk8vHkYJM=
+SHA-256-Digest-Manifest-Main-Attributes: o69u6rOQRocIeDW+nOSUPeyFK5QJOWW
+ ODlg5DYU0kh8=
 
 Name: configuration/studio/metadata/com.silabs.ss.uc.feature/uc_cli.pack
  age
-SHA-256-Digest: jHIJdjFpY6+37bXg1kGZ0ImGRlhkaZThpqbMCuMz5kM=
+SHA-256-Digest: 8iq3QtifZa/F/kgF/axdJw9b8FG6Si1OG8n59oLJAyg=
 
 Name: configuration/studio/metadata/com.silabs.ss.uc.feature/changelog
-SHA-256-Digest: BdZbiJbnMsFU0/WnwS3z0CZvtylgvTScziC9VGsvOo0=
-
-Name: developer/scripting/slc_cli/readme.md
-SHA-256-Digest: XixBnKr/c7GTzvWLvVDWwAJPv7IZkS6mQ5s4UcH+tq0=
-
-Name: developer/scripting/slc_cli/lib/version.py
-SHA-256-Digest: tl7A/TM1pQdjGw7NPldTpyYJUyxwDD3TYxyLi3dsyUY=
-
-Name: developer/scripting/slc_cli/lib/slc_common.py
-SHA-256-Digest: g3SgGZqtnlS/fjL/5bSiC4UTUW+MwKAE3GlI3XfgUyY=
-
-Name: developer/scripting/slc_cli/requirements.txt
-SHA-256-Digest: FB9pGA01Ooy/Sji8BcIXxtG7A7kahPbYtWe5TMh39EE=
-
-Name: developer/scripting/slc_cli/slc.bat
-SHA-256-Digest: /Djs727IVs+ar3OG1ITEJILPgywrkzLFfPhnhOPDeUM=
-
-Name: developer/scripting/slc_cli/slc
-SHA-256-Digest: 65reBqNaCrRAYzncoP3beFEqZhRQ3OFRyVHaBXU+eqQ=
-
-Name: developer/scripting/slc_cli/lib/slc_run.py
-SHA-256-Digest: Tv7TwlfJmUSINoepMl15otg9OLlswd+o2BWsIgwERvg=
+SHA-256-Digest: hgl8XSk+nywynSD7SkfBAsaN2YANWDNA8cl0/QkSPkI=
 

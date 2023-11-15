@@ -1,3 +1,34 @@
+5.0.32
+    Package version for release in SV5.7.3
+    BRD4338A
+    BRD4342A
+5.0.31
+    Package version for release in SV5.7.2
+    BRD4402B, BRD4403B
+5.0.30
+    Package version for release in SV5.7.1
+    BRD4115B, BRD2905A, BRD2705A 
+    EFR32MG27C230F768IM40, EFR32MG27C230F768IM32, EFR32BG24B310F1536IJ42
+    EFR32SG23B020F512IM40, EFR32SG28B320F1024IM48, EFR32SG28B320F1024IM68, EFR32SG28B322F1024IM48, EFR32SG28B322F1024IM68
+5.0.29
+    Package version for release in SV5.7.0.1
+5.0.28
+    BRD4329
+5.0.24
+    Package version for release in SV5.7.0
+    BRD2603B, BRD4328B
+    MGM240L... 
+    BRD4319 (various), BRD4337
+    BRD2900, BRD2901
+    BRD4273, BRD4272
+    BRD8035, BRD8037
+    EFM32PG22... A
+    BRD2602, BRD4111, BRD4110, EFR32MG... 
+5.0.23
+    Move BRD4195B/BRD4196B to GA
+5.0.22
+    Package version for release in SV5.6.4.0
+    Bug fix for incorrect name for WGM160PKX22KGA
 5.0.21
     Package version for release in SV5.6.3.0
     BRD4115A - EFR32BG24IJ/GJ

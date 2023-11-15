@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<config date="1678466193152" transient="false">
+<config date="1699016439186" transient="false">
 	<site updateable="true" url="platform:/base/" enabled="true" policy="USER-EXCLUDE">
-		<feature id="com.silabs.metadata.32bit_autogen.feature" version="5.0.21.202303091659-486" url="features/com.silabs.metadata.32bit_autogen.feature_5.0.21.202303091659-486/">
-		</feature>
 		<feature id="org.eclipse.emf.common" version="2.25.0.v20220123-0838" url="features/org.eclipse.emf.common_2.25.0.v20220123-0838/">
 		</feature>
-		<feature id="com.silabs.apack.python.feature" version="4.1.1.202205122037-22" url="features/com.silabs.apack.python.feature_4.1.1.202205122037-22/">
-		</feature>
-		<feature id="com.silabs.uc.cli.feature" version="5.6.3.202303061646-549" url="features/com.silabs.uc.cli.feature_5.6.3.202303061646-549/">
+		<feature id="com.silabs.ss.support.jep.feature" version="4.0.2.202306151654-39" url="features/com.silabs.ss.support.jep.feature_4.0.2.202306151654-39/">
 		</feature>
 		<feature id="org.eclipse.e4.rcp" version="4.23.0.v20220308-0630" url="features/org.eclipse.e4.rcp_4.23.0.v20220308-0630/">
 		</feature>
-		<feature id="com.silabs.external.jep.feature" version="3.7.3.202205120127-6" url="features/com.silabs.external.jep.feature_3.7.3.202205120127-6/">
+		<feature id="com.silabs.metadata.32bit_autogen.feature" version="5.0.32.202310241921-597" url="features/com.silabs.metadata.32bit_autogen.feature_5.0.32.202310241921-597/">
+		</feature>
+		<feature id="com.silabs.external.json.feature" version="3.5.0.202306061442-50" url="features/com.silabs.external.json.feature_3.5.0.202306061442-50/">
+		</feature>
+		<feature id="com.silabs.external.pymath.feature" version="1.0.0.202305221457-3" url="features/com.silabs.external.pymath.feature_1.0.0.202305221457-3/">
 		</feature>
 		<feature id="com.silabs.metadata.common.feature" version="5.0.3.202206030305-331" url="features/com.silabs.metadata.common.feature_5.0.3.202206030305-331/">
 		</feature>
+		<feature id="com.silabs.uc.cli.feature" version="5.6.9.202311021815-633" url="features/com.silabs.uc.cli.feature_5.6.9.202311021815-633/">
+		</feature>
 		<feature id="org.eclipse.emf.ecore" version="2.27.0.v20220123-0838" url="features/org.eclipse.emf.ecore_2.27.0.v20220123-0838/">
 		</feature>
-		<feature id="com.silabs.external.json.feature" version="3.5.0.202205121431-46" url="features/com.silabs.external.json.feature_3.5.0.202205121431-46/">
+		<feature id="com.silabs.external.opentelemetry.api.feature" version="1.22.0.202305221545-4" url="features/com.silabs.external.opentelemetry.api.feature_1.22.0.202305221545-4/">
+		</feature>
+		<feature id="com.silabs.apack.python.feature" version="4.1.2.202306071818-31" url="features/com.silabs.apack.python.feature_4.1.2.202306071818-31/">
 		</feature>
 		<feature id="org.eclipse.rcp" version="4.23.0.v20220308-0722" url="features/org.eclipse.rcp_4.23.0.v20220308-0722/">
 		</feature>
 		<feature id="com.silabs.external.jna.feature" version="5.5.0" url="features/com.silabs.external.jna.feature_5.5.0/">
 		</feature>
-		<feature id="com.silabs.external.pymath.feature" version="1.0.0.202205121433-2" url="features/com.silabs.external.pymath.feature_1.0.0.202205121433-2/">
+		<feature id="com.silabs.external.opentelemetry.sdk.feature" version="1.22.0.202305221545-10" url="features/com.silabs.external.opentelemetry.sdk.feature_1.22.0.202305221545-10/">
 		</feature>
-		<feature id="com.silabs.ss.support.jep.feature" version="4.0.1.202205131105-37" url="features/com.silabs.ss.support.jep.feature_4.0.1.202205131105-37/">
+		<feature id="com.silabs.external.jep.feature" version="3.7.4.202306151838-19" url="features/com.silabs.external.jep.feature_3.7.4.202306151838-19/">
 		</feature>
 	</site>
 </config>

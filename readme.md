@@ -1,6 +1,6 @@
 # SLC-CLI
 
-slc-cli is Silicon Labs' command line alternative to using Simplicity Studio 5 to generate projects from example applications packaged with a Silicon Labs SDK. slc-cli is a Python wrapper that accesses Simplicity Studio's internal project configuration tools framework.
+slc-cli is Silicon Labs' command line alternative to using Simplicity Studio 5 to generate projects from example applications packaged with a Silicon Labs SDK.
 
 slc-cli is provided as a downloadable .zip file for three operating systems:
 
@@ -28,28 +28,25 @@ Example projects are installed with the SDK in a directory under the Gecko SDK S
 
 As well as the slc-cli .zip file and a Silicon Labs SDK, you will need:
 
-- Python 3.3 or higher.
-- pip (download option with Python)
-- Java 64 bit JVM version 11 or higher, available through [Amazon Correto](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html). Note that some files, such as the Windows .msi files, can be found on the [releases page](https://github.com/corretto/corretto-11/releases).
+- Java 64 bit JVM version 17 or higher, available through [Amazon Correto](https://docs.aws.amazon.com/corretto/latest/corretto-17-ug/downloads-list.html). Note that some files, such as the Windows .msi files, can be found on the [releases page](https://github.com/corretto/corretto-17/releases).
 
 ## Installation
 
 1. Unpack the slc-cli zip file.
-2. Run `pip install -r requirements.txt`
-
-   If you get an `EnvironmentError`, run `pip install --user -r requirements.txt`
-
-   If you are running `slc` with a Python version other than your system default, add the Python path to the command, for example: `your/python/path -m pip install -r requirements.txt`
-3. (Optional) To call slc-cli from anywhere in your system, add the path to the downloaded slc-cli command line to your PATH.
-4. Configure slc-cli to find the GSDK location, for example (assuming the SDK was installed through Simplicity Studio 5):
+1. (Optional) To call slc-cli from anywhere in your system, add the path to the expanded slc-cli to your PATH. If you skip this step on Mac or Linux systems, preface all calls to 'slc' with './' as in './slc', assuming you are following this procedure in the current directory.
+1. Configure slc-cli to find the GSDK location, for example (assuming the SDK was installed through Simplicity Studio 5):
 
     `slc configuration --sdk <SSv5 installation>\developer\sdks\gecko_sdk_suite\v3.1\`
+
+    or if the sdk was downloaded via github, this by default would be in:
+
+    `slc configuration --sdk <user_directory>/SimplicityStudio/SDKs/gecko_sdk`
 
     Then all commands that use an SDK will use this configured location. If you do not do this, you must specify the SDK path with the --sdk option each time you issue a command, such as `generate` discussed below.
 
 `slc --help` provides details on usage and a list of available commands. `slc <command> -h` shows all options for the command.
 
-Run `slc <command> <command options>` to use the default Python installation, or `your\python\path slc ...` to use a different version of Python.
+Running `slc <command> <command options>` uses the default Java installation. To use a Java installation other than the current default (run `java -version` to determine that) you can always use `<path_to_your_java> -jar slc.jar <command> <command options>`
 
 ## Generating a Project
 

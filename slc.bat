@@ -1,2 +1,2 @@
 @echo off
-python %~dp0\slc %*
+java -jar %~dp0\slc.jar %*

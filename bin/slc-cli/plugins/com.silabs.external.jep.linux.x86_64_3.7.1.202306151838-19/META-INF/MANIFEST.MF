@@ -1,0 +1,34 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: JEP Wrapper Linux X86_64
+Bundle-SymbolicName: com.silabs.external.jep.linux.x86_64
+Bundle-Version: 3.7.1.202306151838-19
+Bundle-Vendor: Silicon Labs Inc
+Fragment-Host: com.silabs.external.jep;bundle-version="3.7.1"
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Eclipse-PlatformFilter: (& (osgi.os=linux) (osgi.arch=x86_64))
+
+Name: external_jep/3.7.1/site-packages/jep/redirect_streams.py
+SHA-256-Digest: E1vUgxR/cfuKhVW8ijH2nN8UT41HkVd6bXJVoqMUZPk=
+
+Name: external_jep/3.7.1/site-packages/jep/__init__.py
+SHA-256-Digest: dgD28AgwNidoCSCcTLL4PJQa2G7vt9Zr6NETrqyqVBI=
+
+Name: external_jep/3.7.1/site-packages/jep/jep.so
+SHA-256-Digest: AVcKiAjhiWejkrSvdRNkSWCtvsGxMsXQir61eYGg6fU=
+
+Name: external_jep/3.7.1/site-packages/jep/console.py
+SHA-256-Digest: zoatOssiR1NqqkCH6Ao5iGWOEui6AxxNlmTTMuaNKz4=
+
+Name: external_jep/3.7.1/site-packages/jep/java_import_hook.py
+SHA-256-Digest: WK+uINEfOnTeSX5U/m4abxFSScQz2RpoeFNl3Y5iByo=
+
+Name: external_jep/3.7.1/site-packages/jep/jdbc.py
+SHA-256-Digest: Ca6m8Ha1+b65Coz2BfTUf5ygPFlt1Dlg5Qvyd5tn+bU=
+
+Name: external_jep/3.7.1/site-packages/jep/shared_modules_hook.py
+SHA-256-Digest: QDcBlURQaabBIzKOjMIODrn/JlUwzNUtgGItwyymVzU=
+
+Name: external_jep/3.7.1/site-packages/jep/version.py
+SHA-256-Digest: DYdUacwIe+GraO6lMZ6EIUBBoHp8lMRMFYisHKEV5j8=
+

@@ -1,3 +1,20 @@
+5.7.3.0
+    Companion release for Studio sv5.7.3.0.
+    Add feature to enable extension project upgrades when an extension is updated without a GSDK update.
+5.7.2.0
+    Companion release for Studio sv5.7.2.0
+	Performance improvements.
+5.7.1.1
+    Companion release for Studio sv5.7.1.1
+    Add option to set the working directory for a CLI command
+5.7.1.0
+    Companion release for Studio sv5.7.1.0    
+5.7.0.2
+    Fixed new batch and shell script launchers
+5.7.0.1
+    Companion release for Studio sv5.7.0.1
+5.7.0.0
+    Companion release for Studio sv5.7.0.0
 5.6.3.0
     Companion release for Studio SV5.6.3
 5.6.0

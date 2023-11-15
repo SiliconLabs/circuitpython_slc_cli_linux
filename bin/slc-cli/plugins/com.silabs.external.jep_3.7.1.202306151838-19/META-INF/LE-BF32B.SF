@@ -1,0 +1,249 @@
+Signature-Version: 1.0
+Created-By: 17.0.3 (Amazon.com Inc.)
+SHA-256-Digest-Manifest: Nd7OeXCL7QOqh8VTFcpEtnaMQvz/SNf8QO0Nky3UhMs=
+SHA-256-Digest-Manifest-Main-Attributes: FlLvX/s5008lhFG9i2/yT71yoKMA4Uy
+ SHCCZtDCWk8c=
+
+Name: jep/python/PyMethod.class
+SHA-256-Digest: 8s4OWtvwZ2W2beSgdnDimPuMtk4p9uvUb7KFSoGMv80=
+
+Name: jep/JepThreadProxy$10.class
+SHA-256-Digest: 2qImQOP/1LjkD8UbaH4iU3/YD+2feZuHhYxOkuIdOwI=
+
+Name: jep/ProxyThread$DetectionRunnable.class
+SHA-256-Digest: LKjb7nT8P+yAzVNtbV+wWbp5bhQZbOGizahx3xVBK+s=
+
+Name: jep/python/PyClass.class
+SHA-256-Digest: IDbDUV2r24uuYq2PcAt230qkZIVolJ+8vItHe1bqDik=
+
+Name: jep/JepThreadProxy$6.class
+SHA-256-Digest: ClNDIzjj/Px8MdDWxzyj2OQ616Wmx1hE2uAbEpz62nQ=
+
+Name: jep/python/PyObject.class
+SHA-256-Digest: 3TTsn2qlZsdBdaJ86I2i254MKTzD19fcaSQCyPyEUV0=
+
+Name: jep/JepThreadProxy$30.class
+SHA-256-Digest: jvXe0TQ4sIY9SZVQzR43LRYeQMKvydMCeg10/70WJ5A=
+
+Name: jep/JepThreadProxy$20.class
+SHA-256-Digest: DNi0y1xZ1C6OnH5xzuxEPkCMAcoNohEx6tO5O7AMBtU=
+
+Name: jep/JepThreadProxy$3.class
+SHA-256-Digest: EhdK9saj90qNX27u9sslv5suYsEfj8QihICaXRTrOCU=
+
+Name: jep/PyConfig.class
+SHA-256-Digest: xmRjCMu5Jarz4q44N84qpkblWPDiqjT+roejlyCbKi0=
+
+Name: jep/ExceptionHolder.class
+SHA-256-Digest: nzZCz8Mlyw3pJbXf6vJJVEwSLTFXCRfY37j3GCIHTDE=
+
+Name: jep/IThreadRunner.class
+SHA-256-Digest: 3mHQf6Ue1MV2g1cxSiT3LPWjZjYasRgyU1aVIck7tOU=
+
+Name: jep/JepThreadProxy$17.class
+SHA-256-Digest: kg2u8ch6QBcLtQgDJ91UEDeyXhSrK+ZQFqk7U+IZGfs=
+
+Name: jep/Jep$TopInterpreter.class
+SHA-256-Digest: SPvV/iNivqyM22QLb1lD8EloVBDoTXARCtU++BT5vcc=
+
+Name: jep/Jep.class
+SHA-256-Digest: f6TuY+1rinxb4f0xUmAj9Qm9BfmHyNcEl3MRDH+/ka0=
+
+Name: jep/HostUtils$HOST.class
+SHA-256-Digest: T6HvprgF4ok/sQA1IVec3xuDicLugkWl/0xzV5FQgok=
+
+Name: com/silabs/external/api/jep/JepScriptEngineManager.class
+SHA-256-Digest: p5UvfqvIq100RjTunCyyj7QU8HCLhl+/ahrBVxn6M9E=
+
+Name: jep/JepThreadProxy$27.class
+SHA-256-Digest: BgqzsKCXgBoyv9Fim4oYmPtOF6gWye5IeixugjhH/Hc=
+
+Name: com/silabs/external/api/jep/JepScriptEngine.class
+SHA-256-Digest: 2a5JIE/xurB9R0bk2BLdmkV/nC/PD2f6mg9j04U10M8=
+
+Name: jep/AbstractNDArray.class
+SHA-256-Digest: vZcygPKG04tp9c6JpYY/ZHSe0W5va8JQyhAaxz1C/gM=
+
+Name: jep/Util.class
+SHA-256-Digest: XI0y6dQVaUAAAN+7PlHQw4jH2onBjm1TBR1OarKwXzA=
+
+Name: com/silabs/external/api/jep/JepScriptEngineFactory.class
+SHA-256-Digest: 77YDvvv7IQnQwEJz/+aS1wgfo5VF1+Ec4D007U9Zn0s=
+
+Name: jep/JepThreadProxy$24.class
+SHA-256-Digest: /vcva8oi5Uo0uV9wuQj4Tynyx5gXW3quGhJdnWSCqeM=
+
+Name: jep/JepScriptEngineFactory.class
+SHA-256-Digest: fDOxcA88OKwHWMqXRfXktQLGld+p1r6gqM8+3r0ck+U=
+
+Name: jep/JepThreadProxy$16.class
+SHA-256-Digest: m12223LEiwDvb/QzW+NvMlAUXlpM3llDmh3HiDjMljc=
+
+Name: jep/JepThreadProxy$36.class
+SHA-256-Digest: dft/qsxRUXQeCShXgtAYruvJ9Mkwmqe4G/osPkavSb8=
+
+Name: jep/JepThreadProxy$2.class
+SHA-256-Digest: 3ekEykZHfqCCkmXXeNVwrdWmufU3p5Was7H7qgT6EA8=
+
+Name: jep/JepThreadProxy$21.class
+SHA-256-Digest: gUj/2v22BHoI0mzjCcGARYoPZVxcgEd0moax/j12ABs=
+
+Name: jep/Run$1.class
+SHA-256-Digest: mnK6hCuMtf5FisS4izPbvo7n6QMk0FPu6GgcDROg2AQ=
+
+Name: jep/NDArray.class
+SHA-256-Digest: AN2fDDjj8Tdx64B5FETZ7fKyaOz2ecEwm1NyFXNcBbY=
+
+Name: jep/JepThreadProxy$28.class
+SHA-256-Digest: FMHoT8FqrQIKOqbu3tjtj6in9uDYfnxEZsFK8EPp9aY=
+
+Name: jep/JepThreadProxy$33.class
+SHA-256-Digest: BdGVQz4t48K1vG0Z9m/ykAhu5G/eKPJe06fnPNxbdm8=
+
+Name: jep/JepThreadProxy$13.class
+SHA-256-Digest: FhmhF/Nh1gG6ET+l4T5NkCMIt1zp1n7V6a3ZsBzqr1M=
+
+Name: jep/JepThreadProxy$9.class
+SHA-256-Digest: T3/W27D58qFb6ZNn+eSGr3ewDCuGMrk6Qqbv8af41Xk=
+
+Name: com/silabs/external/api/jep/StudioJep.class
+SHA-256-Digest: pTAMpcAkJ0QRQvkhmopB33Yl24pQ7n6fwBxQGLUTIf0=
+
+Name: jep/JepScriptEngine.class
+SHA-256-Digest: i8hN+Z6/673j0MriJDFeFaCQtnlacOePvFlfdpRbFTQ=
+
+Name: jep/JepThreadProxy$1.class
+SHA-256-Digest: gGf8RttTT7BWG7VYlhN8cMbTdmo1rZ2rR7KT+Jl8Hrs=
+
+Name: jep/ClassEnquirer.class
+SHA-256-Digest: 2EYNt1jqPQw0DvJM4tIeNYbFY3xcZTgaC3ARsnLV9ZY=
+
+Name: jep/JepThreadProxy$8.class
+SHA-256-Digest: /GIheVssjHH3pK1nxE7pL977rb2GWJT5YTzsM4wMpQA=
+
+Name: jep/classlist_8.txt
+SHA-256-Digest: 23lP3B9Z1IbG69SPgfb3d5OaHqUgKPK+wrnYcOav6SU=
+
+Name: jep/JepThreadProxy$35.class
+SHA-256-Digest: fXGgo4n4Bnu1pJM3B6LVpm/eDUH9bX2XueZeQM9zmWc=
+
+Name: jep/JepThreadProxy$15.class
+SHA-256-Digest: vKIprWxSAjabKCiacY8VwAGGqr10cQh5OUNJdK6rJTc=
+
+Name: jep/JepThreadProxy$25.class
+SHA-256-Digest: h96yrioYTiJRenqswQAm2h+Og3dl+aEFJ9sCPaqG700=
+
+Name: jep/JepThreadProxy$22.class
+SHA-256-Digest: XoZPNhTCo0oSttyzMvlJk+BQaLpG0TtAkbMlFaNSbmA=
+
+Name: jep/JepThreadProxy$12.class
+SHA-256-Digest: V/Y9JHgcYEd7W9AaD1toW1/AkcZ4w4npu8rIUPqfaGU=
+
+Name: jep/JepThreadProxy$19.class
+SHA-256-Digest: OQq0Ig9+SONpqhzrH3vpmGSkUaxoHjc070R1L5Il7zs=
+
+Name: jep/JepThreadProxy$32.class
+SHA-256-Digest: aLQ066l8hlruOCwyZ71NcP7WqoM3DLAcnu8oiP7ZIeM=
+
+Name: jep/classlist_6.txt
+SHA-256-Digest: euoomT/pRUvFTb9YEVs2g9ECMaoJZdQU4W/zBaiVH/U=
+
+Name: jep/InvocationHandler$InvokeRunnable.class
+SHA-256-Digest: R1Qh2XlykSoaP+A4KpWZdWUHpZ8V6/bL/Y6e1rZnV7s=
+
+Name: jep/JepException.class
+SHA-256-Digest: exwbSiQbB5t4xf9rr26bT3twgQnGPIEtBiAu7U7heLs=
+
+Name: jep/JepThreadProxy$5.class
+SHA-256-Digest: 2FC7K3NqdVcHD0g0ilkr3TfJlfpfDLDE5azG2BmBOuU=
+
+Name: jep/classlist_7.txt
+SHA-256-Digest: jdzGZurB8PMtplm77lMLlO8Vg/r5B74ZK2KtencPdJM=
+
+Name: jep/HostUtils.class
+SHA-256-Digest: q9k0AW297wtyqkEUwoBzxBUqnJdkCfgS4hlAaNcySKk=
+
+Name: jep/Jep$1.class
+SHA-256-Digest: b1Fjwj+CNUzkYB7KX9lVqJowl4f8SEmm52vhvplr+Fw=
+
+Name: jep/JepThreadProxy$34.class
+SHA-256-Digest: tQUSrTpXIeneIlT/ShHT73NiIdmscF2htiCOI9+u3CA=
+
+Name: META-INF/services/javax.script.ScriptEngineFactory
+SHA-256-Digest: q7Bn09VeEGqN8RkpXptYm784c2P3lLQqXOmp67dWwXo=
+
+Name: jep/JepThreadProxy$26.class
+SHA-256-Digest: +MaQ+VAEazpAl7/yyMS4sUjLUESWPGEO/xsRJmEw1A0=
+
+Name: com/silabs/external/jep/Activator.class
+SHA-256-Digest: fekbXhvWRcjnHke5CEP+TyFLysYa0yizYc3Ca6Ry4NI=
+
+Name: jep/JepThreadProxy$11.class
+SHA-256-Digest: Rl4f+6Vrg/hJmKR0n61qzgqjsoXcGX5h/GJrWuttFNU=
+
+Name: jep/JepThreadProxy$14.class
+SHA-256-Digest: xo7hR3zbEYLmvtgjq+9qqnS1mID8XD8N/SBNB9RokPk=
+
+Name: jep/JepThreadProxy.class
+SHA-256-Digest: UhMEgXGywaYdlg/uehGOjOxTw7KygrA086287W7X31s=
+
+Name: jep/ClassFilenameFilter.class
+SHA-256-Digest: lpy/SSzyh/iMrccP/5vurynMvfzWPr0qNk7U9H4KZH8=
+
+Name: jep/ProxyThread.class
+SHA-256-Digest: jHfpMDylwGstsKtaXweLofDFBO5zJnCnmGJa6bBZ99A=
+
+Name: jep/Jep$TopInterpreter$1.class
+SHA-256-Digest: JuYwJJw1JJ8Anz06dG9AwM0bhMnrbjpRAjNyOzbwtls=
+
+Name: jep/JepThreadProxy$29.class
+SHA-256-Digest: 1nkXQFLnsd7Tkif8u4CX6txePAzpe0DmeLxlxS6fTbg=
+
+Name: jep/InvocationHandler.class
+SHA-256-Digest: LUWAbHJSksGVn7nyJSlnkXtGx9NxVgLj5t5ojD3ok90=
+
+Name: jep/JepThreadProxy$7.class
+SHA-256-Digest: LvckqEOs9dldnd1xlR5OUEMaSip8IEAUtp0oEVjZwws=
+
+Name: jep/ResultHolder.class
+SHA-256-Digest: 7WHREpeLFktYEoOAx0FWjc1rVHU8BvFl3ApQbpGQqy8=
+
+Name: jep/JepThreadProxy$31.class
+SHA-256-Digest: l2oK4rGtU28VVpa3s0ViSGJpI91REnrXyxhsuKXTWks=
+
+Name: jep/ProxyThread$1.class
+SHA-256-Digest: b0ueyI6HNjMzwlgsgvJwFPEHO7w8AiyZXUFwagtZPxA=
+
+Name: jep/Run.class
+SHA-256-Digest: bqBLpF2Fd4j/x/QArhhhDrmWX5f0Jfq1e7T3Py/4GhM=
+
+Name: jep/classlist_9.txt
+SHA-256-Digest: EfcCDaJRqPUOquOJhJCmPoZBvt8KvHBWYZb2xdBRUzc=
+
+Name: jep/JepThreadProxy$18.class
+SHA-256-Digest: bTI5ymS1da8N4LADiWOFegdBM0LLZu5c4QZ3+WC/qwA=
+
+Name: jep/JepThreadProxy$4.class
+SHA-256-Digest: EPEj/kIp1sSGfAAsYKfgS49hs68wmVwksPW0qiIRwz0=
+
+Name: jep/python/PyObject$StateListener.class
+SHA-256-Digest: 4MwejJdFRGWpIqO2v8hTGqJk1T1aVTO4hcRwsjyMjO8=
+
+Name: jep/JepConfig.class
+SHA-256-Digest: +w+NkqOIlUQM15c67DR5hq3wfsVQv7A/qBZp64cAKZ8=
+
+Name: jep/ClassList.class
+SHA-256-Digest: /5PMBhmSTVmyD58Z4ZoJFo119fFGJh7HsZ8fnPZeIxA=
+
+Name: jep/Proxy.class
+SHA-256-Digest: XOEDmxsYYU8JHEMEe/T+FX7Si20RARnYn5fR1Ohnf1Q=
+
+Name: jep/python/PyModule.class
+SHA-256-Digest: 1fn82IeKmc0SdCiTvRFHXgYHcXMXkPoXjz5K2dbZtEA=
+
+Name: jep/NamingConventionClassEnquirer.class
+SHA-256-Digest: pefCryUVuaT4d3C9Jv/bEfC0CpIEJFQRkK57VjkOF9A=
+
+Name: jep/JepThreadProxy$23.class
+SHA-256-Digest: bObiBMxP/kvgwpblLL7QvCe7sVC20+iAMARtkOLYjQw=
+
